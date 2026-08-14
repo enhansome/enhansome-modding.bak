@@ -14,7 +14,7 @@
             "last_commit": "2025-05-03T09:01:19Z",
             "owner": "limo-app",
             "repo": "limo",
-            "stars": 766
+            "stars": 767
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-09-26T08:59:18Z",
             "owner": "CadeEvs",
             "repo": "FrostyToolsuite",
-            "stars": 749
+            "stars": 750
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-26T22:58:03Z",
+            "last_commit": "2026-08-13T22:07:01Z",
             "owner": "Raicuparta",
             "repo": "rai-pal",
             "stars": 713
@@ -209,7 +209,7 @@
             "last_commit": "2025-01-20T13:27:10Z",
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 965
+            "stars": 967
           }
         },
         {
@@ -434,7 +434,7 @@
             "last_commit": "2026-08-12T00:22:45Z",
             "owner": "Mutagen-Modding",
             "repo": "Synthesis",
-            "stars": 342
+            "stars": 343
           }
         },
         {
@@ -774,7 +774,7 @@
             "last_commit": "2026-03-07T21:08:23Z",
             "owner": "LaughingLeader",
             "repo": "BG3ModManager",
-            "stars": 1813
+            "stars": 1817
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2026-07-11T09:32:12Z",
             "owner": "Norbyte",
             "repo": "bg3se",
-            "stars": 1491
+            "stars": 1492
           }
         },
         {
@@ -850,7 +850,7 @@
             "last_commit": "2026-01-14T23:40:26Z",
             "owner": "Norbyte",
             "repo": "ositools",
-            "stars": 481
+            "stars": 482
           }
         },
         {
@@ -900,10 +900,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T03:13:56Z",
+            "last_commit": "2026-08-14T04:42:24Z",
             "owner": "WolvenKit",
             "repo": "WolvenKit",
-            "stars": 1178
+            "stars": 1179
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-07-29T22:55:31Z",
             "owner": "SWRC-Modding",
             "repo": "CT",
-            "stars": 222
+            "stars": 221
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-07-20T15:33:40Z",
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2366
+            "stars": 2369
           }
         },
         {
@@ -1359,7 +1359,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8393
+            "stars": 8398
           }
         },
         {
@@ -1421,7 +1421,7 @@
             "last_commit": "2024-03-16T17:58:33Z",
             "owner": "gildor2",
             "repo": "UEViewer",
-            "stars": 2908
+            "stars": 2909
           }
         },
         {
@@ -1525,7 +1525,7 @@
             "last_commit": "2026-02-14T14:09:29Z",
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3146
+            "stars": 3147
           }
         },
         {
@@ -1536,10 +1536,10 @@
           "repo_info": {
             "archived": false,
             "language": "HLSL",
-            "last_commit": "2026-08-13T01:42:39Z",
+            "last_commit": "2026-08-14T02:20:16Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1587
+            "stars": 1593
           }
         },
         {
@@ -1550,10 +1550,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T22:22:52Z",
+            "last_commit": "2026-08-13T09:59:03Z",
             "owner": "Zagrios",
             "repo": "bs-manager",
-            "stars": 1129
+            "stars": 1131
           }
         },
         {
@@ -1564,10 +1564,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T21:39:50Z",
+            "last_commit": "2026-08-13T20:07:36Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -1581,7 +1581,7 @@
             "last_commit": "2026-08-06T10:54:00Z",
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
-            "stars": 508
+            "stars": 509
           }
         },
         {
@@ -1623,7 +1623,7 @@
             "last_commit": "2026-08-06T19:10:45Z",
             "owner": "General-101",
             "repo": "Halo-Asset-Blender-Development-Toolset",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:22:47.089Z",
+    "last_updated": "2026-08-14T05:11:17.577Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
     "enhanced_repository": "enhansome/enhansome-modding.bak",
