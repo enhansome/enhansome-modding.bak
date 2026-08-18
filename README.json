@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T23:30:55Z",
+            "last_commit": "2026-08-18T00:57:36Z",
             "owner": "Raicuparta",
             "repo": "rai-pal",
             "stars": 714
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-15T01:23:00Z",
             "owner": "ohhsodead",
             "repo": "arisen-studio",
-            "stars": 261
+            "stars": 263
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-16T06:16:40Z",
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2016
+            "stars": 2017
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2025-01-20T13:27:10Z",
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 968
+            "stars": 972
           }
         },
         {
@@ -369,7 +369,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T20:09:42Z",
+            "last_commit": "2026-08-17T15:04:05Z",
             "owner": "ousnius",
             "repo": "BodySlide-and-Outfit-Studio",
             "stars": 359
@@ -774,7 +774,7 @@
             "last_commit": "2026-03-07T21:08:23Z",
             "owner": "LaughingLeader",
             "repo": "BG3ModManager",
-            "stars": 1821
+            "stars": 1822
           }
         },
         {
@@ -900,7 +900,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T12:34:51Z",
+            "last_commit": "2026-08-17T17:55:05Z",
             "owner": "WolvenKit",
             "repo": "WolvenKit",
             "stars": 1181
@@ -948,7 +948,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T06:20:55Z",
+            "last_commit": "2026-08-17T04:46:31Z",
             "owner": "PrismaticFlower",
             "repo": "WorldEdit",
             "stars": 13
@@ -999,7 +999,7 @@
             "last_commit": "2024-06-04T16:47:50Z",
             "owner": "anno-mods",
             "repo": "iModYourAnno",
-            "stars": 47
+            "stars": 48
           }
         }
       ],
@@ -1227,7 +1227,7 @@
             "last_commit": "2026-08-07T16:16:55Z",
             "owner": "pixeltris",
             "repo": "YgoMaster",
-            "stars": 1343
+            "stars": 1344
           }
         },
         {
@@ -1359,7 +1359,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8421
+            "stars": 8428
           }
         },
         {
@@ -1373,7 +1373,7 @@
             "last_commit": "2023-03-13T17:35:42Z",
             "owner": "sinai-dev",
             "repo": "UnityExplorer",
-            "stars": 3136
+            "stars": 3137
           }
         },
         {
@@ -1387,7 +1387,7 @@
             "last_commit": "2026-08-04T01:00:52Z",
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1104
+            "stars": 1105
           }
         },
         {
@@ -1421,7 +1421,7 @@
             "last_commit": "2024-03-16T17:58:33Z",
             "owner": "gildor2",
             "repo": "UEViewer",
-            "stars": 2913
+            "stars": 2912
           }
         },
         {
@@ -1525,7 +1525,7 @@
             "last_commit": "2026-02-14T14:09:29Z",
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3149
+            "stars": 3150
           }
         },
         {
@@ -1536,10 +1536,10 @@
           "repo_info": {
             "archived": false,
             "language": "HLSL",
-            "last_commit": "2026-08-17T02:02:46Z",
+            "last_commit": "2026-08-18T02:00:11Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1601
+            "stars": 1607
           }
         },
         {
@@ -1564,10 +1564,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T20:45:44Z",
+            "last_commit": "2026-08-17T21:33:53Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 967
+            "stars": 969
           }
         },
         {
@@ -1581,7 +1581,7 @@
             "last_commit": "2026-08-14T14:31:00Z",
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
-            "stars": 510
+            "stars": 511
           }
         },
         {
@@ -1595,7 +1595,7 @@
             "last_commit": "2026-07-09T07:45:28Z",
             "owner": "satisfactorymodding",
             "repo": "SatisfactoryModManager",
-            "stars": 494
+            "stars": 495
           }
         },
         {
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:08:38.348Z",
+    "last_updated": "2026-08-18T04:03:12.519Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
     "enhanced_repository": "enhansome/enhansome-modding.bak",
