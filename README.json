@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-18T00:57:36Z",
+            "last_commit": "2026-08-18T22:33:08Z",
             "owner": "Raicuparta",
             "repo": "rai-pal",
             "stars": 714
@@ -192,10 +192,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T06:16:40Z",
+            "last_commit": "2026-08-18T16:52:56Z",
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2017
+            "stars": 2020
           }
         },
         {
@@ -617,7 +617,7 @@
             "last_commit": "2025-05-14T10:44:36Z",
             "owner": "xan1242",
             "repo": "NFSU-XtendedInput",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2024-06-15T15:16:28Z",
             "owner": "NFSCO",
             "repo": "Binary",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -900,7 +900,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T17:55:05Z",
+            "last_commit": "2026-08-18T12:40:54Z",
             "owner": "WolvenKit",
             "repo": "WolvenKit",
             "stars": 1181
@@ -1019,7 +1019,7 @@
             "last_commit": "2026-08-14T15:03:31Z",
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2372
+            "stars": 2376
           }
         },
         {
@@ -1033,7 +1033,7 @@
             "last_commit": "2026-05-16T10:41:14Z",
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1414
+            "stars": 1416
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2025-08-23T13:16:01Z",
             "owner": "bs-community",
             "repo": "awesome-minecraft",
-            "stars": 640
+            "stars": 641
           }
         },
         {
@@ -1089,7 +1089,7 @@
             "last_commit": "2026-07-02T23:43:14Z",
             "owner": "modrinth",
             "repo": "awesome",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2026-07-20T16:57:47Z",
             "owner": "thesupersonic16",
             "repo": "HedgeModManager",
-            "stars": 486
+            "stars": 487
           }
         },
         {
@@ -1359,7 +1359,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8428
+            "stars": 8435
           }
         },
         {
@@ -1502,7 +1502,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-07-16T01:57:43Z",
+            "last_commit": "2026-08-18T06:42:41Z",
             "owner": "modio",
             "repo": "modio-ue",
             "stars": 137
@@ -1525,7 +1525,7 @@
             "last_commit": "2026-02-14T14:09:29Z",
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3150
+            "stars": 3152
           }
         },
         {
@@ -1536,10 +1536,10 @@
           "repo_info": {
             "archived": false,
             "language": "HLSL",
-            "last_commit": "2026-08-18T02:00:11Z",
+            "last_commit": "2026-08-19T02:09:11Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1607
+            "stars": 1609
           }
         },
         {
@@ -1550,10 +1550,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T09:59:03Z",
+            "last_commit": "2026-08-18T12:29:14Z",
             "owner": "Zagrios",
             "repo": "bs-manager",
-            "stars": 1133
+            "stars": 1135
           }
         },
         {
@@ -1564,10 +1564,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T21:33:53Z",
+            "last_commit": "2026-08-18T21:47:11Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 969
+            "stars": 971
           }
         },
         {
@@ -1609,7 +1609,7 @@
             "last_commit": "2026-08-05T20:21:48Z",
             "owner": "bartlomiejduda",
             "repo": "Tools",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:03:12.519Z",
+    "last_updated": "2026-08-19T04:04:14.740Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
     "enhanced_repository": "enhansome/enhansome-modding.bak",
