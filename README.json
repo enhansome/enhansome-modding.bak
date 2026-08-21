@@ -204,10 +204,10 @@
             "archived": false,
             "id": 450996695,
             "language": "C++",
-            "last_commit": "2026-08-20T00:40:47Z",
+            "last_commit": "2026-08-21T02:42:40Z",
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2020
+            "stars": 2021
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2025-01-20T13:27:10Z",
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-07-25T14:13:14Z",
             "owner": "xensik",
             "repo": "gsc-tool",
-            "stars": 315
+            "stars": 314
           }
         },
         {
@@ -404,7 +404,7 @@
                 "archived": false,
                 "id": 362150104,
                 "language": "Python",
-                "last_commit": "2026-08-16T21:28:07Z",
+                "last_commit": "2026-08-20T16:04:48Z",
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
                 "stars": 301
@@ -641,7 +641,7 @@
             "last_commit": "2025-05-14T10:34:47Z",
             "owner": "xan1242",
             "repo": "NFS-XtendedInput",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-03-07T21:08:23Z",
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1822
+                "stars": 1823
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-16T10:06:18Z",
                 "owner": "Norbyte",
                 "repo": "bg3se",
-                "stars": 1492
+                "stars": 1491
               }
             },
             {
@@ -951,10 +951,10 @@
                 "archived": false,
                 "id": 79343641,
                 "language": "C#",
-                "last_commit": "2026-08-20T03:35:43Z",
+                "last_commit": "2026-08-20T21:32:11Z",
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1180
+                "stars": 1179
               }
             },
             {
@@ -1007,7 +1007,7 @@
             "archived": false,
             "id": 224411362,
             "language": "C++",
-            "last_commit": "2026-08-19T04:19:03Z",
+            "last_commit": "2026-08-20T21:22:37Z",
             "owner": "PrismaticFlower",
             "repo": "WorldEdit",
             "stars": 13
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-08-14T15:03:31Z",
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2378
+            "stars": 2379
           }
         },
         {
@@ -1304,7 +1304,7 @@
             "last_commit": "2026-08-07T16:16:55Z",
             "owner": "pixeltris",
             "repo": "YgoMaster",
-            "stars": 1344
+            "stars": 1346
           }
         },
         {
@@ -1445,7 +1445,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8439
+            "stars": 8445
           }
         },
         {
@@ -1475,7 +1475,7 @@
             "last_commit": "2026-08-04T01:00:52Z",
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1105
+            "stars": 1106
           }
         },
         {
@@ -1526,7 +1526,7 @@
             "last_commit": "2023-09-19T21:39:00Z",
             "owner": "terrehbyte",
             "repo": "awesome-ue4",
-            "stars": 801
+            "stars": 802
           }
         },
         {
@@ -1622,7 +1622,7 @@
             "last_commit": "2026-02-14T14:09:29Z",
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3152
+            "stars": 3153
           }
         },
         {
@@ -1634,10 +1634,10 @@
             "archived": false,
             "id": 753163587,
             "language": "HLSL",
-            "last_commit": "2026-08-20T02:06:43Z",
+            "last_commit": "2026-08-21T02:02:58Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1611
+            "stars": 1613
           }
         },
         {
@@ -1652,7 +1652,7 @@
             "last_commit": "2026-08-18T12:29:14Z",
             "owner": "Zagrios",
             "repo": "bs-manager",
-            "stars": 1137
+            "stars": 1139
           }
         },
         {
@@ -1664,7 +1664,7 @@
             "archived": false,
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-19T21:52:35Z",
+            "last_commit": "2026-08-20T21:33:27Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 973
@@ -1682,7 +1682,7 @@
             "last_commit": "2026-08-19T20:57:22Z",
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
-            "stars": 511
+            "stars": 510
           }
         },
         {
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:03:30.839Z",
+    "last_updated": "2026-08-21T04:06:22.213Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_id": 584106537,
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
