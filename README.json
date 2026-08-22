@@ -30,7 +30,7 @@
             "last_commit": "2024-09-26T08:59:18Z",
             "owner": "CadeEvs",
             "repo": "FrostyToolsuite",
-            "stars": 753
+            "stars": 754
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 164172074,
             "language": "C#",
-            "last_commit": "2026-08-15T01:23:00Z",
+            "last_commit": "2026-08-22T01:22:08Z",
             "owner": "ohhsodead",
             "repo": "arisen-studio",
-            "stars": 263
+            "stars": 264
           }
         },
         {
@@ -204,10 +204,10 @@
             "archived": false,
             "id": 450996695,
             "language": "C++",
-            "last_commit": "2026-08-21T02:42:40Z",
+            "last_commit": "2026-08-22T03:50:49Z",
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2021
+            "stars": 2023
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2025-01-20T13:27:10Z",
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 975
+            "stars": 981
           }
         },
         {
@@ -404,7 +404,7 @@
                 "archived": false,
                 "id": 362150104,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:04:48Z",
+                "last_commit": "2026-08-21T17:36:09Z",
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
                 "stars": 301
@@ -456,10 +456,10 @@
                 "archived": false,
                 "id": 284157878,
                 "language": "C#",
-                "last_commit": "2026-08-12T00:22:45Z",
+                "last_commit": "2026-08-21T05:59:45Z",
                 "owner": "Mutagen-Modding",
                 "repo": "Synthesis",
-                "stars": 345
+                "stars": 346
               }
             },
             {
@@ -525,7 +525,7 @@
                     "archived": false,
                     "id": 766623344,
                     "language": "Python",
-                    "last_commit": "2026-08-09T17:53:42Z",
+                    "last_commit": "2026-08-21T18:13:52Z",
                     "owner": "Cutleast",
                     "repo": "SSE-Auto-Translator",
                     "stars": 30
@@ -641,7 +641,7 @@
             "last_commit": "2025-05-14T10:34:47Z",
             "owner": "xan1242",
             "repo": "NFS-XtendedInput",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2025-05-14T10:44:36Z",
             "owner": "xan1242",
             "repo": "NFSU-XtendedInput",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-16T10:06:18Z",
                 "owner": "Norbyte",
                 "repo": "bg3se",
-                "stars": 1491
+                "stars": 1492
               }
             },
             {
@@ -896,7 +896,7 @@
                 "last_commit": "2026-01-14T23:40:26Z",
                 "owner": "Norbyte",
                 "repo": "ositools",
-                "stars": 484
+                "stars": 485
               }
             },
             {
@@ -951,7 +951,7 @@
                 "archived": false,
                 "id": 79343641,
                 "language": "C#",
-                "last_commit": "2026-08-20T21:32:11Z",
+                "last_commit": "2026-08-21T12:41:43Z",
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
                 "stars": 1179
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-08-14T15:03:31Z",
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2379
+            "stars": 2382
           }
         },
         {
@@ -1097,7 +1097,7 @@
             "last_commit": "2026-05-16T10:41:14Z",
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1416
+            "stars": 1417
           }
         },
         {
@@ -1112,7 +1112,7 @@
             "last_commit": "2025-08-23T13:16:01Z",
             "owner": "bs-community",
             "repo": "awesome-minecraft",
-            "stars": 641
+            "stars": 642
           }
         },
         {
@@ -1157,7 +1157,7 @@
             "last_commit": "2026-07-02T23:43:14Z",
             "owner": "modrinth",
             "repo": "awesome",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-07-20T16:57:47Z",
             "owner": "thesupersonic16",
             "repo": "HedgeModManager",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -1223,7 +1223,7 @@
             "last_commit": "2026-08-07T17:13:34Z",
             "owner": "X-Hax",
             "repo": "SA-Mod-Manager",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -1445,7 +1445,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8445
+            "stars": 8451
           }
         },
         {
@@ -1556,7 +1556,7 @@
             "last_commit": "2026-02-20T19:41:42Z",
             "owner": "trumank",
             "repo": "repak",
-            "stars": 553
+            "stars": 555
           }
         },
         {
@@ -1601,7 +1601,7 @@
             "last_commit": "2026-08-18T06:42:41Z",
             "owner": "modio",
             "repo": "modio-ue",
-            "stars": 137
+            "stars": 138
           }
         }
       ],
@@ -1634,10 +1634,10 @@
             "archived": false,
             "id": 753163587,
             "language": "HLSL",
-            "last_commit": "2026-08-21T02:02:58Z",
+            "last_commit": "2026-08-22T02:00:14Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1613
+            "stars": 1617
           }
         },
         {
@@ -1664,10 +1664,10 @@
             "archived": false,
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-20T21:33:27Z",
+            "last_commit": "2026-08-21T21:29:33Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 973
+            "stars": 974
           }
         },
         {
@@ -1679,10 +1679,10 @@
             "archived": false,
             "id": 165160518,
             "language": "C++",
-            "last_commit": "2026-08-19T20:57:22Z",
+            "last_commit": "2026-08-22T02:19:18Z",
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
-            "stars": 510
+            "stars": 509
           }
         },
         {
@@ -1799,7 +1799,7 @@
             "archived": false,
             "id": 534164472,
             "language": "Python",
-            "last_commit": "2026-08-16T20:17:14Z",
+            "last_commit": "2026-08-21T22:18:20Z",
             "owner": "ILoveAGoodCrisp",
             "repo": "Foundry",
             "stars": 58
@@ -1829,7 +1829,7 @@
             "archived": false,
             "id": 322922267,
             "language": "C++",
-            "last_commit": "2026-08-08T06:57:46Z",
+            "last_commit": "2026-08-21T21:39:25Z",
             "owner": "JanSimek",
             "repo": "gecko",
             "stars": 44
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:06:22.213Z",
+    "last_updated": "2026-08-22T04:00:39.354Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_id": 584106537,
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
