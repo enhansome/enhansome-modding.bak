@@ -87,7 +87,7 @@
             "archived": false,
             "id": 591174884,
             "language": "Python",
-            "last_commit": "2026-08-23T03:20:05Z",
+            "last_commit": "2026-08-24T02:39:02Z",
             "owner": "cyberrumor",
             "repo": "ammo",
             "stars": 62
@@ -204,10 +204,10 @@
             "archived": false,
             "id": 450996695,
             "language": "C++",
-            "last_commit": "2026-08-22T03:50:49Z",
+            "last_commit": "2026-08-23T20:26:28Z",
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2023
+            "stars": 2024
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2025-01-20T13:27:10Z",
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 982
+            "stars": 983
           }
         },
         {
@@ -407,7 +407,7 @@
                 "last_commit": "2026-08-21T17:36:09Z",
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
-                "stars": 301
+                "stars": 302
               }
             },
             {
@@ -626,7 +626,7 @@
             "last_commit": "2026-05-01T20:02:23Z",
             "owner": "zaps166",
             "repo": "NFSIISE",
-            "stars": 740
+            "stars": 742
           }
         },
         {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-03-07T21:08:23Z",
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1824
+                "stars": 1827
               }
             },
             {
@@ -826,7 +826,7 @@
                 "archived": false,
                 "id": 334630126,
                 "language": "C++",
-                "last_commit": "2026-08-22T15:53:49Z",
+                "last_commit": "2026-08-23T22:23:56Z",
                 "owner": "Norbyte",
                 "repo": "bg3se",
                 "stars": 1492
@@ -951,10 +951,10 @@
                 "archived": false,
                 "id": 79343641,
                 "language": "C#",
-                "last_commit": "2026-08-23T01:27:08Z",
+                "last_commit": "2026-08-23T14:41:44Z",
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1179
+                "stars": 1180
               }
             },
             {
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-08-14T15:03:31Z",
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2382
+            "stars": 2384
           }
         },
         {
@@ -1097,7 +1097,7 @@
             "last_commit": "2026-05-16T10:41:14Z",
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1418
+            "stars": 1419
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-07-20T16:57:47Z",
             "owner": "thesupersonic16",
             "repo": "HedgeModManager",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -1304,7 +1304,7 @@
             "last_commit": "2026-08-07T16:16:55Z",
             "owner": "pixeltris",
             "repo": "YgoMaster",
-            "stars": 1346
+            "stars": 1347
           }
         },
         {
@@ -1445,7 +1445,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8457
+            "stars": 8470
           }
         },
         {
@@ -1511,7 +1511,7 @@
             "last_commit": "2024-03-16T17:58:33Z",
             "owner": "gildor2",
             "repo": "UEViewer",
-            "stars": 2912
+            "stars": 2913
           }
         },
         {
@@ -1556,7 +1556,7 @@
             "last_commit": "2026-02-20T19:41:42Z",
             "owner": "trumank",
             "repo": "repak",
-            "stars": 555
+            "stars": 557
           }
         },
         {
@@ -1634,10 +1634,10 @@
             "archived": false,
             "id": 753163587,
             "language": "HLSL",
-            "last_commit": "2026-08-23T02:35:13Z",
+            "last_commit": "2026-08-24T02:09:39Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1619
+            "stars": 1624
           }
         },
         {
@@ -1664,10 +1664,10 @@
             "archived": false,
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-22T20:10:58Z",
+            "last_commit": "2026-08-23T20:02:26Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 974
+            "stars": 975
           }
         },
         {
@@ -1679,10 +1679,10 @@
             "archived": false,
             "id": 165160518,
             "language": "C++",
-            "last_commit": "2026-08-23T00:57:42Z",
+            "last_commit": "2026-08-23T10:31:52Z",
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
-            "stars": 509
+            "stars": 510
           }
         },
         {
@@ -1784,7 +1784,7 @@
             "archived": false,
             "id": 500410459,
             "language": "Python",
-            "last_commit": "2026-06-12T23:40:38Z",
+            "last_commit": "2026-08-23T12:25:30Z",
             "owner": "bombsquad-community",
             "repo": "plugin-manager",
             "stars": 62
@@ -1829,7 +1829,7 @@
             "archived": false,
             "id": 322922267,
             "language": "C++",
-            "last_commit": "2026-08-21T21:39:25Z",
+            "last_commit": "2026-08-23T14:00:43Z",
             "owner": "JanSimek",
             "repo": "gecko",
             "stars": 44
@@ -1915,7 +1915,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:06:26.872Z",
+    "last_updated": "2026-08-24T04:11:40.945Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_id": 584106537,
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
