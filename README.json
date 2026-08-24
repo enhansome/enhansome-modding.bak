@@ -143,6 +143,28 @@
             {
               "children": [
                 {
+                  "node_type": "item",
+                  "title": "Download Manager",
+                  "description": "Plugin adding features to manage downloads such as batch manipulations.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 887444487,
+                    "language": "Python",
+                    "last_commit": "2026-01-26T21:41:05Z",
+                    "owner": "aglowinthefield",
+                    "repo": "mo2-download-manager",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": "Plugins for general use of MO2 or not related to a specific game.",
+              "node_type": "group",
+              "title": "General Plugins"
+            },
+            {
+              "children": [
+                {
                   "children": [
                     {
                       "node_type": "item",
@@ -207,7 +229,7 @@
             "last_commit": "2026-08-23T20:26:28Z",
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2024
+            "stars": 2025
           }
         },
         {
@@ -300,7 +322,7 @@
             "archived": false,
             "id": 629080475,
             "language": "C#",
-            "last_commit": "2026-08-14T06:58:48Z",
+            "last_commit": "2026-08-24T12:23:56Z",
             "owner": "BoBoBaSs84",
             "repo": "DDS.Tools",
             "stars": 19
@@ -378,6 +400,28 @@
     {
       "description": "Everything related to Bethesda Games modding such as The Elder Scrolls and Fallout series.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ck-cmd",
+              "description": "Command-line helper for executing some Creation Kit/Engine commands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131901691,
+                "language": "C++",
+                "last_commit": "2025-01-27T14:24:31Z",
+                "owner": "aerisarn",
+                "repo": "ck-cmd",
+                "stars": 71
+              }
+            }
+          ],
+          "description": "Everything related to use and create mods using the Creation Kit.",
+          "node_type": "group",
+          "title": "Creation Kit"
+        },
         {
           "children": [
             {
@@ -484,6 +528,50 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Skyrim Linux Modder",
+                  "description": "Linux native mod manager for Skyrim.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 857202417,
+                    "language": "Xojo",
+                    "last_commit": "2026-05-15T01:30:26Z",
+                    "owner": "AlwaysOfflineSoftware",
+                    "repo": "skyrimLinuxModManager",
+                    "stars": 15
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Mod Managers"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dargh",
+                  "description": "Open source reverse-engineered port of Dynamic Animation Replacer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 615260479,
+                    "language": "C++",
+                    "last_commit": "2023-03-17T11:28:59Z",
+                    "owner": "noxsidereum",
+                    "repo": "dargh",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Notable Frameworks"
+            },
             {
               "children": [
                 {
@@ -607,6 +695,28 @@
           "description": "Everything related to Skyrim modding.",
           "node_type": "group",
           "title": "The Elder Scrolls V: Skyrim"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Starfield Mod Loader",
+              "description": "Simple mod manager for Starfield that supports both Steam and Game Pass versions of the game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692461889,
+                "language": "TypeScript",
+                "last_commit": "2026-05-07T00:37:28Z",
+                "owner": "lVlyke",
+                "repo": "stellar-mod-loader",
+                "stars": 90
+              }
+            }
+          ],
+          "description": "Everything related to Starfield modding.",
+          "node_type": "group",
+          "title": "Starfield"
         }
       ],
       "title": "Creation Engine / Bethesda Games"
@@ -804,6 +914,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LSLib",
+              "description": "Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45210272,
+                "language": "C#",
+                "last_commit": "2026-03-31T10:51:50Z",
+                "owner": "Norbyte",
+                "repo": "lslib",
+                "stars": 924
+              }
+            }
+          ],
+          "description": "Larian Studios games file manipulation tools.",
+          "node_type": "group",
+          "title": "File Manipulation Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "LaughingLeader's Baldur's Gate 3 Mod Manager",
               "description": "Mod manager for Baldur's Gate 3.",
               "children": [],
@@ -829,7 +961,7 @@
                 "last_commit": "2026-08-23T22:23:56Z",
                 "owner": "Norbyte",
                 "repo": "bg3se",
-                "stars": 1492
+                "stars": 1493
               }
             },
             {
@@ -929,6 +1061,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WolvenKit (legacy)",
+              "description": "REDEngine 3 file editor designed to simplify and accelerate modding workflow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 413300672,
+                "language": "C#",
+                "last_commit": "2025-12-28T12:09:39Z",
+                "owner": "WolvenKit",
+                "repo": "WolvenKit-7",
+                "stars": 103
+              }
+            }
+          ],
+          "description": "Everything related to The Witcher 3 modding.",
+          "node_type": "group",
+          "title": "The Witcher 3 / REDEngine 3"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Cyber Engine Tweaks",
               "description": "Framework to script mods using Lua with access to all the internal scripting features.",
               "children": [],
@@ -951,10 +1105,10 @@
                 "archived": false,
                 "id": 79343641,
                 "language": "C#",
-                "last_commit": "2026-08-23T14:41:44Z",
+                "last_commit": "2026-08-24T12:43:37Z",
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1180
+                "stars": 1181
               }
             },
             {
@@ -1112,7 +1266,7 @@
             "last_commit": "2025-08-23T13:16:01Z",
             "owner": "bs-community",
             "repo": "awesome-minecraft",
-            "stars": 642
+            "stars": 643
           }
         },
         {
@@ -1445,7 +1599,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8470
+            "stars": 8481
           }
         },
         {
@@ -1475,7 +1629,7 @@
             "last_commit": "2026-08-04T01:00:52Z",
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1106
+            "stars": 1107
           }
         },
         {
@@ -1556,7 +1710,7 @@
             "last_commit": "2026-02-20T19:41:42Z",
             "owner": "trumank",
             "repo": "repak",
-            "stars": 557
+            "stars": 558
           }
         },
         {
@@ -1622,7 +1776,7 @@
             "last_commit": "2026-02-14T14:09:29Z",
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3153
+            "stars": 3154
           }
         },
         {
@@ -1637,7 +1791,7 @@
             "last_commit": "2026-08-24T02:09:39Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1624
+            "stars": 1625
           }
         },
         {
@@ -1652,7 +1806,7 @@
             "last_commit": "2026-08-22T23:02:28Z",
             "owner": "Zagrios",
             "repo": "bs-manager",
-            "stars": 1140
+            "stars": 1142
           }
         },
         {
@@ -1664,7 +1818,7 @@
             "archived": false,
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-23T20:02:26Z",
+            "last_commit": "2026-08-24T10:18:48Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 975
@@ -1915,7 +2069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:11:40.945Z",
+    "last_updated": "2026-08-24T14:47:37.073Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_id": 584106537,
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
