@@ -946,7 +946,7 @@
                 "last_commit": "2026-03-07T21:08:23Z",
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1827
+                "stars": 1826
               }
             },
             {
@@ -1599,7 +1599,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8487
+            "stars": 8488
           }
         },
         {
@@ -1755,7 +1755,7 @@
             "last_commit": "2026-08-18T06:42:41Z",
             "owner": "modio",
             "repo": "modio-ue",
-            "stars": 138
+            "stars": 139
           }
         }
       ],
@@ -1818,7 +1818,7 @@
             "archived": false,
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-24T20:40:28Z",
+            "last_commit": "2026-08-25T06:41:27Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 973
@@ -2069,7 +2069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:05:19.903Z",
+    "last_updated": "2026-08-25T06:41:52.788Z",
     "original_repository": "loicreynier/awesome-modding.bak",
     "original_repository_id": 584106537,
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
