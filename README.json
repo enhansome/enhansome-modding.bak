@@ -1599,7 +1599,7 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8508
+            "stars": 8509
           }
         },
         {
@@ -1791,7 +1791,7 @@
             "last_commit": "2026-08-27T02:46:52Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1633
+            "stars": 1634
           }
         },
         {
@@ -1818,7 +1818,7 @@
             "archived": false,
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-27T10:26:46Z",
+            "last_commit": "2026-08-27T12:23:31Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 976
@@ -1866,7 +1866,7 @@
             "last_commit": "2026-08-05T20:21:48Z",
             "owner": "bartlomiejduda",
             "repo": "Tools",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -2069,7 +2069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:47.496Z",
+    "last_updated": "2026-08-27T14:21:36.342Z",
     "original_repository_info": {
       "archived": false,
       "id": 584106537,
