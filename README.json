@@ -15,8 +15,9 @@
             "last_commit": "2025-05-03T09:01:19Z",
             "owner": "limo-app",
             "repo": "limo",
-            "stars": 770
-          }
+            "stars": 771
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "CadeEvs",
             "repo": "FrostyToolsuite",
             "stars": 755
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-18T22:33:08Z",
             "owner": "Raicuparta",
             "repo": "rai-pal",
-            "stars": 714
-          }
+            "stars": 713
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "ohhsodead",
             "repo": "arisen-studio",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "fluffy-mods",
             "repo": "ModManager",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "cyberrumor",
             "repo": "ammo",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dandels",
             "repo": "dmodman",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Karandra",
             "repo": "Kortex-Mod-Manager",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "dasorik",
             "repo": "continuum-mod-manager",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "children": [
@@ -155,7 +164,8 @@
                     "owner": "aglowinthefield",
                     "repo": "mo2-download-manager",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 }
               ],
               "description": "Plugins for general use of MO2 or not related to a specific game.",
@@ -179,7 +189,8 @@
                         "owner": "Exit-9B",
                         "repo": "ModOrganizer-CrashLogTools",
                         "stars": 6
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:30:25.688Z"
                     },
                     {
                       "node_type": "item",
@@ -194,7 +205,8 @@
                         "owner": "MaskedRPGFan",
                         "repo": "Profile-Assistant",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-28T15:30:25.688Z"
                     }
                   ],
                   "description": null,
@@ -229,8 +241,9 @@
             "last_commit": "2026-08-23T20:26:28Z",
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2031
-          }
+            "stars": 2033
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -245,7 +258,8 @@
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
             "stars": 985
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -260,7 +274,8 @@
             "owner": "dh-nunes",
             "repo": "fomod-validator",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -275,7 +290,8 @@
             "owner": "dh-nunes",
             "repo": "pyfomod",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -290,7 +306,8 @@
             "owner": "Cutleast",
             "repo": "FOMOD-Creation-Kit",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -305,7 +322,8 @@
             "owner": "loicreynier",
             "repo": "fomod-validator-cli",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Modding Utilities"
@@ -326,7 +344,8 @@
             "owner": "BoBoBaSs84",
             "repo": "DDS.Tools",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -341,7 +360,8 @@
             "owner": "PraedythXIV",
             "repo": "Substance-Painter-DDS-Importer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Texture Editing"
@@ -362,7 +382,8 @@
             "owner": "xensik",
             "repo": "gsc-tool",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -376,8 +397,9 @@
             "last_commit": "2026-07-05T16:34:57Z",
             "owner": "RaidMax",
             "repo": "IW4M-Admin",
-            "stars": 252
-          }
+            "stars": 253
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -392,7 +414,8 @@
             "owner": "Musta1337",
             "repo": "TeknoMW3",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Call of Duty Games"
@@ -415,7 +438,8 @@
                 "owner": "aerisarn",
                 "repo": "ck-cmd",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Everything related to use and create mods using the Creation Kit.",
@@ -436,8 +460,9 @@
                 "last_commit": "2026-08-17T15:04:05Z",
                 "owner": "ousnius",
                 "repo": "BodySlide-and-Outfit-Studio",
-                "stars": 359
-              }
+                "stars": 358
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -448,11 +473,12 @@
                 "archived": false,
                 "id": 362150104,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:36:09Z",
+                "last_commit": "2026-08-28T14:32:49Z",
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
-                "stars": 302
-              }
+                "stars": 303
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -467,7 +493,8 @@
                 "owner": "AlexxEG",
                 "repo": "BSA_Browser",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -482,7 +509,8 @@
                 "owner": "niston",
                 "repo": "TextureScan",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Mesh and textures manipulation tools.",
@@ -504,7 +532,8 @@
                 "owner": "Mutagen-Modding",
                 "repo": "Synthesis",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -519,7 +548,8 @@
                 "owner": "Mutagen-Modding",
                 "repo": "Spriggit",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Plugin manipulation tools.",
@@ -543,7 +573,8 @@
                     "owner": "AlwaysOfflineSoftware",
                     "repo": "skyrimLinuxModManager",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 }
               ],
               "description": null,
@@ -565,7 +596,8 @@
                     "owner": "noxsidereum",
                     "repo": "dargh",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 }
               ],
               "description": null,
@@ -587,7 +619,8 @@
                     "owner": "hakasapl",
                     "repo": "PGPatcher",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 },
                 {
                   "node_type": "item",
@@ -602,7 +635,8 @@
                     "owner": "jgernandt",
                     "repo": "blender-hkx",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 },
                 {
                   "node_type": "item",
@@ -617,7 +651,8 @@
                     "owner": "Cutleast",
                     "repo": "SSE-Auto-Translator",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 },
                 {
                   "node_type": "item",
@@ -632,7 +667,8 @@
                     "owner": "Sonorous256",
                     "repo": "skyrim-mod-medic",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 },
                 {
                   "node_type": "item",
@@ -647,7 +683,8 @@
                     "owner": "adya",
                     "repo": "pack-skse-mod",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 }
               ],
               "description": null,
@@ -669,7 +706,8 @@
                     "owner": "LivelyDismay",
                     "repo": "Learn-To-Mod",
                     "stars": 144
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 },
                 {
                   "node_type": "item",
@@ -684,7 +722,8 @@
                     "owner": "The-Animonculory",
                     "repo": "Modding-Resources",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:30:25.688Z"
                 }
               ],
               "description": null,
@@ -711,7 +750,8 @@
                 "owner": "lVlyke",
                 "repo": "stellar-mod-loader",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Everything related to Starfield modding.",
@@ -737,7 +777,8 @@
             "owner": "zaps166",
             "repo": "NFSIISE",
             "stars": 745
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -752,7 +793,8 @@
             "owner": "xan1242",
             "repo": "NFS-XtendedInput",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -766,8 +808,9 @@
             "last_commit": "2025-05-14T10:44:36Z",
             "owner": "xan1242",
             "repo": "NFSU-XtendedInput",
-            "stars": 162
-          }
+            "stars": 163
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -782,7 +825,8 @@
             "owner": "NFSCO",
             "repo": "Binary",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -797,7 +841,8 @@
             "owner": "Ekey",
             "repo": "NFS.BIN.Tool",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -812,7 +857,8 @@
             "owner": "R-033",
             "repo": "icebreaker",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -827,7 +873,8 @@
             "owner": "NI240SX",
             "repo": "UCGT",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -842,7 +889,8 @@
             "owner": "bluesky-dev12",
             "repo": "MAD-x-VP6-x-MPC-x-MPV-x-WMV-Compiler",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -857,7 +905,8 @@
             "owner": "bluesky-dev12",
             "repo": "PFDataCompiler",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -872,7 +921,8 @@
             "owner": "TheXDS",
             "repo": "Vivianne",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -887,7 +937,8 @@
             "owner": "TheUnpunished",
             "repo": "SpeechTool",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -902,7 +953,8 @@
             "owner": "TheUnpunished",
             "repo": "tmxtool",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Need for Speed Games"
@@ -924,8 +976,9 @@
                 "last_commit": "2026-03-31T10:51:50Z",
                 "owner": "Norbyte",
                 "repo": "lslib",
-                "stars": 925
-              }
+                "stars": 926
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Larian Studios games file manipulation tools.",
@@ -946,8 +999,9 @@
                 "last_commit": "2026-03-07T21:08:23Z",
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1825
-              }
+                "stars": 1827
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1016,8 @@
                 "owner": "Norbyte",
                 "repo": "bg3se",
                 "stars": 1496
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1032,8 @@
                 "owner": "Ch4nKyy",
                 "repo": "BG3WASD",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1048,8 @@
                 "owner": "shalzuth",
                 "repo": "BG3Cam",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1064,8 @@
                 "owner": "gottyduke",
                 "repo": "BG3_AchievementEnabler",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Everything related to Baldur's Gate 3 modding.",
@@ -1028,8 +1086,9 @@
                 "last_commit": "2026-01-14T23:40:26Z",
                 "owner": "Norbyte",
                 "repo": "ositools",
-                "stars": 485
-              }
+                "stars": 486
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -1043,8 +1102,9 @@
                 "last_commit": "2026-07-24T00:48:14Z",
                 "owner": "LaughingLeader-DOS2-Mods",
                 "repo": "DivinityModManager",
-                "stars": 130
-              }
+                "stars": 131
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Everything related to Divinity 2 modding.",
@@ -1072,7 +1132,8 @@
                 "owner": "WolvenKit",
                 "repo": "WolvenKit-7",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Everything related to The Witcher 3 modding.",
@@ -1093,8 +1154,9 @@
                 "last_commit": "2026-05-09T17:54:22Z",
                 "owner": "maximegmd",
                 "repo": "CyberEngineTweaks",
-                "stars": 4806
-              }
+                "stars": 4807
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -1105,11 +1167,12 @@
                 "archived": false,
                 "id": 79343641,
                 "language": "C#",
-                "last_commit": "2026-08-26T20:58:08Z",
+                "last_commit": "2026-08-27T16:55:20Z",
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1183
-              }
+                "stars": 1184
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             },
             {
               "node_type": "item",
@@ -1124,7 +1187,8 @@
                 "owner": "Nats-ji",
                 "repo": "CET-Mod-Manager",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T15:30:25.688Z"
             }
           ],
           "description": "Everything related to Cyberpunk 2077 modding.",
@@ -1150,7 +1214,8 @@
             "owner": "SWRC-Modding",
             "repo": "CT",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1165,7 +1230,8 @@
             "owner": "PrismaticFlower",
             "repo": "WorldEdit",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Star Wars Games"
@@ -1186,7 +1252,8 @@
             "owner": "magicalcookie",
             "repo": "anno1800-mod-loader",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1201,7 +1268,8 @@
             "owner": "jakobharder",
             "repo": "anno1800-jakobs-mods",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1216,7 +1284,8 @@
             "owner": "anno-mods",
             "repo": "iModYourAnno",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Anno 1800"
@@ -1237,7 +1306,8 @@
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
             "stars": 2390
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1322,8 @@
             "owner": "gorilla-devs",
             "repo": "ferium",
             "stars": 1419
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1338,8 @@
             "owner": "bs-community",
             "repo": "awesome-minecraft",
             "stars": 644
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1354,8 @@
             "owner": "StopModReposts",
             "repo": "Illegal-Mod-Sites",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1370,8 @@
             "owner": "kaniol-lck",
             "repo": "modmanager",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1386,8 @@
             "owner": "modrinth",
             "repo": "awesome",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1327,7 +1402,8 @@
             "owner": "Senth",
             "repo": "minecraft-mod-manager",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1342,7 +1418,8 @@
             "owner": "4JX",
             "repo": "mCubed",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Minecraft"
@@ -1363,7 +1440,8 @@
             "owner": "thesupersonic16",
             "repo": "HedgeModManager",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1377,8 +1455,9 @@
             "last_commit": "2026-08-07T17:13:34Z",
             "owner": "X-Hax",
             "repo": "SA-Mod-Manager",
-            "stars": 159
-          }
+            "stars": 160
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1472,8 @@
             "owner": "Radfordhound",
             "repo": "HedgeLib",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1488,8 @@
             "owner": "hyperbx",
             "repo": "SonicNextModManager",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1504,8 @@
             "owner": "Carlmundo",
             "repo": "BetterSADX",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1520,8 @@
             "owner": "hyperbx",
             "repo": "Marathon",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Sonic Games"
@@ -1459,7 +1542,8 @@
             "owner": "pixeltris",
             "repo": "YgoMaster",
             "stars": 1350
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1558,8 @@
             "owner": "Lahrenheit",
             "repo": "EDOPRO-Skinpack",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1574,8 @@
             "owner": "NiiMiyo",
             "repo": "EDOPro-Hd-Downloader",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1590,8 @@
             "owner": "SethPDA",
             "repo": "MasterDuel-Modding",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1606,8 @@
             "owner": "alexjraymond",
             "repo": "DuelingBookEnhanced",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1622,8 @@
             "owner": "mykesXD",
             "repo": "Duelingbook-Dark-Mode",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1638,8 @@
             "owner": "QuotedTF",
             "repo": "duelingbook-dark-minimal",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1654,8 @@
             "owner": "ReinUsesLisp",
             "repo": "dbshortcuts",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1670,8 @@
             "owner": "H3xtia",
             "repo": "DuelingBookClient",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Yu-Gi-Oh! Games"
@@ -1599,8 +1691,9 @@
             "last_commit": "2026-06-28T16:08:10Z",
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8509
-          }
+            "stars": 8523
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1614,8 +1707,9 @@
             "last_commit": "2023-03-13T17:35:42Z",
             "owner": "sinai-dev",
             "repo": "UnityExplorer",
-            "stars": 3138
-          }
+            "stars": 3139
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1724,8 @@
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
             "stars": 1107
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1740,8 @@
             "owner": "PassivePicasso",
             "repo": "ThunderKit",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Unity"
@@ -1666,7 +1762,8 @@
             "owner": "gildor2",
             "repo": "UEViewer",
             "stars": 2917
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1778,8 @@
             "owner": "terrehbyte",
             "repo": "awesome-ue4",
             "stars": 802
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1695,8 +1793,9 @@
             "last_commit": "2024-07-22T02:11:17Z",
             "owner": "segross",
             "repo": "UnrealImGui",
-            "stars": 765
-          }
+            "stars": 766
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1810,8 @@
             "owner": "trumank",
             "repo": "repak",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1826,8 @@
             "owner": "RussellJerome",
             "repo": "UnrealModLoader",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1842,8 @@
             "owner": "bananaturtlesandwich",
             "repo": "stove",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1858,8 @@
             "owner": "modio",
             "repo": "modio-ue",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Unreal Engine 4"
@@ -1776,8 +1879,9 @@
             "last_commit": "2026-02-14T14:09:29Z",
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3156
-          }
+            "stars": 3157
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1788,11 +1892,12 @@
             "archived": false,
             "id": 753163587,
             "language": "HLSL",
-            "last_commit": "2026-08-27T02:46:52Z",
+            "last_commit": "2026-08-28T14:56:10Z",
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1634
-          }
+            "stars": 1658
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1803,11 +1908,12 @@
             "archived": false,
             "id": 491663939,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:00:34Z",
+            "last_commit": "2026-08-27T16:43:08Z",
             "owner": "Zagrios",
             "repo": "bs-manager",
             "stars": 1144
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1818,11 +1924,12 @@
             "archived": false,
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-27T12:23:31Z",
+            "last_commit": "2026-08-28T12:07:25Z",
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 976
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1833,11 +1940,12 @@
             "archived": false,
             "id": 165160518,
             "language": "C++",
-            "last_commit": "2026-08-27T01:36:15Z",
+            "last_commit": "2026-08-28T01:19:55Z",
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
             "stars": 511
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1851,8 +1959,9 @@
             "last_commit": "2026-08-25T12:45:23Z",
             "owner": "satisfactorymodding",
             "repo": "SatisfactoryModManager",
-            "stars": 496
-          }
+            "stars": 497
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1976,8 @@
             "owner": "bartlomiejduda",
             "repo": "Tools",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +1992,8 @@
             "owner": "General-101",
             "repo": "Halo-Asset-Blender-Development-Toolset",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +2008,8 @@
             "owner": "NathanVaughn",
             "repo": "msfs-mod-manager",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1912,7 +2024,8 @@
             "owner": "LostArtefacts",
             "repo": "TR2X",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1927,7 +2040,8 @@
             "owner": "MatuxGG",
             "repo": "ModManager",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2056,8 @@
             "owner": "bombsquad-community",
             "repo": "plugin-manager",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1957,7 +2072,8 @@
             "owner": "ILoveAGoodCrisp",
             "repo": "Foundry",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1972,7 +2088,8 @@
             "owner": "Trojan295",
             "repo": "eso-addons",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -1983,11 +2100,12 @@
             "archived": false,
             "id": 322922267,
             "language": "C++",
-            "last_commit": "2026-08-26T13:50:10Z",
+            "last_commit": "2026-08-28T11:41:50Z",
             "owner": "JanSimek",
             "repo": "gecko",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -2002,7 +2120,8 @@
             "owner": "AdrienTD",
             "repo": "XXL-Editor",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -2017,7 +2136,8 @@
             "owner": "ldeon",
             "repo": "Ubitunedec",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -2032,7 +2152,8 @@
             "owner": "laqieer",
             "repo": "awesome-fireemblem-modding",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2168,8 @@
             "owner": "kinten108101",
             "repo": "steam-vpk",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         },
         {
           "node_type": "item",
@@ -2062,14 +2184,15 @@
             "owner": "d34dinsid3k1tty",
             "repo": "FlatOut2ModManager",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
         }
       ],
       "title": "Other Games"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:21:36.342Z",
+    "last_updated": "2026-08-28T15:30:25.688Z",
     "original_repository_info": {
       "archived": false,
       "id": 584106537,
