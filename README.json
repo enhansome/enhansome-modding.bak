@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Qt based mod manager",
+            "homepage": null,
             "id": 841554568,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-03T09:01:19Z",
+            "open_issues": 170,
             "owner": "limo-app",
             "repo": "limo",
-            "stars": 771
+            "stars": 771,
+            "topics": [
+              "gui-application",
+              "modding-tools",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://frostytoolsuite.com/",
             "id": 458926587,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-09-26T08:59:18Z",
+            "open_issues": 21,
             "owner": "CadeEvs",
             "repo": "FrostyToolsuite",
-            "stars": 755
+            "stars": 756,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -42,12 +56,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mod manager for universal game mods",
+            "homepage": "https://raicuparta.com/rai-pal",
             "id": 682055992,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:33:08Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T20:54:43Z",
+            "open_issues": 19,
             "owner": "Raicuparta",
             "repo": "rai-pal",
-            "stars": 713
+            "stars": 713,
+            "topics": [
+              "modding",
+              "rust",
+              "tauri",
+              "unity",
+              "unreal"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -58,12 +83,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse, Download and Install Mods for PlayStation 3 & Xbox 360",
+            "homepage": "https://arisen.studio",
             "id": 164172074,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-22T01:22:08Z",
+            "open_issues": 26,
             "owner": "ohhsodead",
             "repo": "arisen-studio",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "cfw",
+              "database",
+              "file-manager",
+              "ftp",
+              "game-cheats",
+              "game-mods",
+              "mod-manager",
+              "ps3",
+              "xbox-360"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -74,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "managing mods should be easy",
+            "homepage": null,
             "id": 133716023,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-18T00:38:16Z",
+            "open_issues": 56,
             "owner": "fluffy-mods",
             "repo": "ModManager",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -90,12 +135,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Almost Manual Mod Organizer - The Definitive CLI Mod Manager for Linux",
+            "homepage": null,
             "id": 591174884,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T02:39:02Z",
+            "open_issues": 8,
             "owner": "cyberrumor",
             "repo": "ammo",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "bethesda-games",
+              "mod-manager",
+              "oblivion-remaster",
+              "sims4",
+              "skyrim",
+              "skyrim-modding",
+              "skyrim-se",
+              "starfield-modding"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -106,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TUI downloader & update checker for Nexusmods.com",
+            "homepage": null,
             "id": 210600925,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-12-19T12:39:31Z",
+            "open_issues": 4,
             "owner": "dandels",
             "repo": "dmodman",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "nexusmods",
+              "ratatui",
+              "rust",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -122,12 +191,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mod manager for various PC games.",
+            "homepage": "https://discord.gg/ZyzWjYj",
             "id": 145168807,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-07T10:45:41Z",
+            "open_issues": 8,
             "owner": "Karandra",
             "repo": "Kortex-Mod-Manager",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "cpp",
+              "elder-scrolls",
+              "fallout",
+              "game",
+              "kortex-mod-manager",
+              "mod-installer",
+              "mod-manager",
+              "morrowind",
+              "oblivion",
+              "skyrim",
+              "vfs",
+              "wxwidgets"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -138,12 +225,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game agnostic mod manager and modification engine",
+            "homepage": null,
             "id": 448860047,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-17T11:57:20Z",
+            "open_issues": 5,
             "owner": "dasorik",
             "repo": "continuum-mod-manager",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "blazor-application",
+              "electron",
+              "modding",
+              "modding-tools"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -158,12 +255,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 887444487,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-26T21:41:05Z",
+                    "open_issues": 5,
                     "owner": "aglowinthefield",
                     "repo": "mo2-download-manager",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 }
@@ -183,12 +285,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Mod Organizer plugins with functionality for Skyrim crash logs",
+                        "homepage": null,
                         "id": 482350740,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-04-19T13:21:16Z",
+                        "open_issues": 2,
                         "owner": "Exit-9B",
                         "repo": "ModOrganizer-CrashLogTools",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T15:30:25.688Z"
                     },
@@ -199,12 +306,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Mod Organizer 2 plugin that automatically selects a profile and enables/disables mods based on the user's VRAM, system language and screen aspect ratio.",
+                        "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/132024",
                         "id": 876365929,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2024-10-22T05:54:35Z",
+                        "open_issues": 0,
                         "owner": "MaskedRPGFan",
                         "repo": "Profile-Assistant",
-                        "stars": 2
+                        "stars": 2,
+                        "topics": [
+                          "mo2",
+                          "mo2-plugin",
+                          "modorganizer"
+                        ]
                       },
                       "first_seen": "2026-08-28T15:30:25.688Z"
                     }
@@ -236,12 +352,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything.",
+            "homepage": "https://www.special-k.info",
             "id": 450996695,
             "language": "C++",
-            "last_commit": "2026-08-23T20:26:28Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T02:54:24Z",
+            "open_issues": 149,
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2033
+            "stars": 2033,
+            "topics": [
+              "framerate-fixer",
+              "gaming",
+              "hdr",
+              "latency-analysis",
+              "modding-games",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -252,12 +380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WorkshopDL - The Best Steam Workshop Downloader",
+            "homepage": null,
             "id": 571704407,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-01-20T13:27:10Z",
+            "open_issues": 47,
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 985
+            "stars": 985,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -268,12 +401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validate your fomod installers.",
+            "homepage": null,
             "id": 56453832,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-17T04:21:53Z",
+            "open_issues": 4,
             "owner": "dh-nunes",
             "repo": "fomod-validator",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -284,12 +422,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-level fomod library written in Python.",
+            "homepage": "https://pyfomod.rtfd.io/",
             "id": 80304833,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-25T16:51:58Z",
+            "open_issues": 6,
             "owner": "dh-nunes",
             "repo": "pyfomod",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "fomod",
+              "installer",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -300,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for editing and creating FOMOD installers.",
+            "homepage": null,
             "id": 980504675,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-18T09:09:35Z",
+            "open_issues": 4,
             "owner": "Cutleast",
             "repo": "FOMOD-Creation-Kit",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -316,12 +468,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI FOMod validation script based on pyfomod",
+            "homepage": null,
             "id": 775500932,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-21T18:33:14Z",
+            "open_issues": 0,
             "owner": "loicreynier",
             "repo": "fomod-validator-cli",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cli-app",
+              "fomod"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -338,12 +498,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I needed some tools that were able to do some slight lifting so I can do some modding. This is a simple DDS and PNG tool set that converts DDS images to PNG images and vice versa on a large scale. It has options for duplicate detection and sorting.",
+            "homepage": "https://bobobass84.github.io/DDS.Tools/",
             "id": 629080475,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-24T12:23:56Z",
+            "open_issues": 3,
             "owner": "BoBoBaSs84",
             "repo": "DDS.Tools",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "dds",
+              "fallout3",
+              "modding-tools",
+              "newvegas",
+              "oblivion",
+              "png",
+              "skyrim"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -354,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Substance Painter plugin for importing DDS files. It converts DDS to PNG, extracts alpha channels and imports them to the shelf under session resources, optionally decodes BC5_SNORM and reconstructs the Z channel.",
+            "homepage": null,
             "id": 912136177,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-04T18:29:58Z",
+            "open_issues": 1,
             "owner": "PraedythXIV",
             "repo": "Substance-Painter-DDS-Importer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -376,12 +554,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility to compile & decompile IW engine game scripts.",
+            "homepage": null,
             "id": 265831532,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T16:53:55Z",
+            "open_issues": 6,
             "owner": "xensik",
             "repo": "gsc-tool",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "advanced",
+              "black",
+              "callofduty",
+              "cod",
+              "compiler",
+              "decompiler",
+              "duty",
+              "engine",
+              "ghosts",
+              "gsc",
+              "mod",
+              "modding",
+              "modern",
+              "ops",
+              "remastered",
+              "scripts",
+              "tools",
+              "vanguard",
+              "warfare",
+              "warzone"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -392,12 +596,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete administration tool for IW4x, Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, CoD4x, IW6x, TeknoMW3, and most Call of Duty® dedicated servers. ",
+            "homepage": null,
             "id": 31865742,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-05T16:34:57Z",
+            "open_issues": 9,
             "owner": "RaidMax",
             "repo": "IW4M-Admin",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "c-sharp",
+              "call-of-duty",
+              "iw4x"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -408,12 +621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for TeknoMW3 Client.",
+            "homepage": "https://teknogods.com/?p=1904",
             "id": 142017020,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-10T20:07:00Z",
+            "open_issues": 0,
             "owner": "Musta1337",
             "repo": "TeknoMW3",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -432,12 +650,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "command line helper for executing some Creation Kit/Engine commands",
+                "homepage": null,
                 "id": 131901691,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-27T14:24:31Z",
+                "open_issues": 36,
                 "owner": "aerisarn",
                 "repo": "ck-cmd",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -455,12 +678,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BodySlide and Outfit Studio, a tool to convert, create, and customize outfits and bodies for Bethesda games.",
+                "homepage": null,
                 "id": 26930082,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T15:04:05Z",
+                "open_issues": 12,
                 "owner": "ousnius",
                 "repo": "BodySlide-and-Outfit-Studio",
-                "stars": 358
+                "stars": 358,
+                "topics": [
+                  "3d",
+                  "3d-models",
+                  "c-plus-plus",
+                  "modding",
+                  "modeling",
+                  "opengl",
+                  "wxwidgets"
+                ]
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -471,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export/Import tools between Blender and the Nif format, using Bodyslide/Outfit Studio's Nifly layer. Supports Skyrim LE, Skyrim SE, and Fallout 4.",
+                "homepage": null,
                 "id": 362150104,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:32:49Z",
+                "open_issues": 118,
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
-                "stars": 303
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -487,12 +728,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bethesda Archive Browser & Extractor",
+                "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/1756",
                 "id": 26016246,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-18T13:54:34Z",
+                "open_issues": 3,
                 "owner": "AlexxEG",
                 "repo": "BSA_Browser",
-                "stars": 129
+                "stars": 129,
+                "topics": [
+                  "bsa",
+                  "bsa-browser",
+                  "fallout",
+                  "fallout-4",
+                  "fallout-newvegas",
+                  "fallout4",
+                  "oblivion",
+                  "skyrim",
+                  "skyrim-special-edition"
+                ]
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -503,12 +759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scans folders for DDS textures with abnormal dimensions",
+                "homepage": null,
                 "id": 645015786,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-06-03T17:27:51Z",
+                "open_issues": 0,
                 "owner": "niston",
                 "repo": "TextureScan",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -526,12 +787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A patcher pipeline framework and GUI.  Run collections of code-based mods to create content customized for your load order",
+                "homepage": null,
                 "id": 284157878,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T05:59:45Z",
+                "open_issues": 190,
                 "owner": "Mutagen-Modding",
                 "repo": "Synthesis",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -542,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git",
+                "homepage": null,
                 "id": 634745815,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-10T06:30:01Z",
+                "open_issues": 45,
                 "owner": "Mutagen-Modding",
                 "repo": "Spriggit",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -567,12 +838,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Linux native mod manager for Skyrim",
+                    "homepage": null,
                     "id": 857202417,
                     "language": "Xojo",
+                    "license": "LGPL-2.1",
                     "last_commit": "2026-05-15T01:30:26Z",
+                    "open_issues": 0,
                     "owner": "AlwaysOfflineSoftware",
                     "repo": "skyrimLinuxModManager",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "games",
+                      "modding-tools",
+                      "modtools"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 }
@@ -590,12 +870,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open source version of the Dynamic Animation Replacer for Skyrim SE.",
+                    "homepage": null,
                     "id": 615260479,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2023-03-17T11:28:59Z",
+                    "open_issues": 0,
                     "owner": "noxsidereum",
                     "repo": "dargh",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "commmonlibsse",
+                      "cpp",
+                      "dynamic-animation-replacer",
+                      "modding",
+                      "reverse-engineering",
+                      "skse64",
+                      "skyrim-special-edition"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 }
@@ -613,12 +906,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dynamic mesh and texture patcher for Skyrim",
+                    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/120946",
                     "id": 797000531,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-16T14:30:53Z",
+                    "open_issues": 31,
                     "owner": "hakasapl",
                     "repo": "PGPatcher",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": [
+                      "directx",
+                      "modding",
+                      "nexus",
+                      "patcher",
+                      "skyrim"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 },
@@ -629,12 +933,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Blender addon to import/export HKX animations",
+                    "homepage": null,
                     "id": 487956325,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-05-22T15:01:42Z",
+                    "open_issues": 7,
                     "owner": "jgernandt",
                     "repo": "blender-hkx",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 },
@@ -645,12 +954,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool for translating entire modlists by auto-downloading available translations from Nexus Mods.",
+                    "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/111491",
                     "id": 766623344,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T16:37:01Z",
+                    "open_issues": 14,
                     "owner": "Cutleast",
                     "repo": "SSE-Auto-Translator",
-                    "stars": 31
+                    "stars": 32,
+                    "topics": [
+                      "nexus-mods",
+                      "pyside6",
+                      "python",
+                      "qt6",
+                      "skse",
+                      "skyrim-special-edition",
+                      "translation"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 },
@@ -661,12 +983,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 731435476,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2024-01-27T01:20:25Z",
+                    "open_issues": 1,
                     "owner": "Sonorous256",
                     "repo": "skyrim-mod-medic",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 },
@@ -677,12 +1004,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository that contains workflows for building multiple variants of SKSE mods that use CMake",
+                    "homepage": null,
                     "id": 539716886,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2026-03-09T13:43:35Z",
+                    "open_issues": 2,
                     "owner": "adya",
                     "repo": "pack-skse-mod",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 }
@@ -700,12 +1032,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lessons on modding.",
+                    "homepage": null,
                     "id": 355670691,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-29T22:04:41Z",
+                    "open_issues": 0,
                     "owner": "LivelyDismay",
                     "repo": "Learn-To-Mod",
-                    "stars": 144
+                    "stars": 144,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 },
@@ -716,12 +1053,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 474971036,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-09-09T16:45:26Z",
+                    "open_issues": 0,
                     "owner": "The-Animonculory",
                     "repo": "Modding-Resources",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:30:25.688Z"
                 }
@@ -744,12 +1086,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mod manager for Windows and Linux supporting games including Fallout, Oblivion, Skyrim, and Starfield. ",
+                "homepage": null,
                 "id": 692461889,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-07T00:37:28Z",
+                "open_issues": 5,
                 "owner": "lVlyke",
                 "repo": "stellar-mod-loader",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "deck",
+                  "fallout",
+                  "fomod",
+                  "game",
+                  "linux",
+                  "loader",
+                  "manager",
+                  "mod",
+                  "mod-loader",
+                  "mod-manager",
+                  "new-vegas",
+                  "oblivion",
+                  "organizer",
+                  "pass",
+                  "remastered",
+                  "skyrim",
+                  "starfield",
+                  "starfield-mod-loader",
+                  "steam-deck",
+                  "vr"
+                ]
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -771,12 +1139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Need For Speed™ II SE - Cross-platform wrapper with 3D acceleration and TCP protocol!",
+            "homepage": null,
             "id": 24685377,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-05-01T20:02:23Z",
+            "open_issues": 4,
             "owner": "zaps166",
             "repo": "NFSIISE",
-            "stars": 745
+            "stars": 745,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -787,12 +1160,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NFS (Black Box, MW & newer) - XInput Plugin",
+            "homepage": null,
             "id": 484252177,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-05-14T10:34:47Z",
+            "open_issues": 57,
             "owner": "xan1242",
             "repo": "NFS-XtendedInput",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "game-controller",
+              "game-input",
+              "game-mod",
+              "need-for-speed",
+              "nfs-carbon",
+              "nfs-most-wanted",
+              "nfs-pro-street",
+              "nfs-prostreet",
+              "nfs-undercover",
+              "nfs-world",
+              "xinput"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -803,12 +1193,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NFS Underground & Underground 2 - XInput Plugin",
+            "homepage": null,
             "id": 477160953,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-05-14T10:44:36Z",
+            "open_issues": 27,
             "owner": "xan1242",
             "repo": "NFSU-XtendedInput",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "game-controller",
+              "game-input",
+              "game-mod",
+              "need-for-speed",
+              "nfs-underground",
+              "nfs-underground-2",
+              "xinput"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -819,12 +1222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for editing Need for Speed binary files (.BIN, .BUN, .LZC).",
+            "homepage": null,
             "id": 405122285,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-15T15:16:28Z",
+            "open_issues": 0,
             "owner": "NFSCO",
             "repo": "Binary",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -835,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for extract and repack ZZDATA archives from Need for Speed console games series",
+            "homepage": null,
             "id": 438713155,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-07-28T22:58:17Z",
+            "open_issues": 3,
             "owner": "Ekey",
             "repo": "NFS.BIN.Tool",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -851,12 +1264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NIS Editing Tool",
+            "homepage": null,
             "id": 282830298,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-10-16T09:04:31Z",
+            "open_issues": 0,
             "owner": "R-033",
             "repo": "icebreaker",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -867,12 +1285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 516131760,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-07-18T10:58:48Z",
+            "open_issues": 0,
             "owner": "NI240SX",
             "repo": "UCGT",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -883,12 +1306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This tool compiles videos for your BB games",
+            "homepage": null,
             "id": 774178725,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-04-20T02:46:02Z",
+            "open_issues": 2,
             "owner": "bluesky-dev12",
             "repo": "MAD-x-VP6-x-MPC-x-MPV-x-WMV-Compiler",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -899,12 +1327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This tools helps you convert music for your NFS Carbon.",
+            "homepage": null,
             "id": 766746159,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-03-27T03:54:08Z",
+            "open_issues": 3,
             "owner": "bluesky-dev12",
             "repo": "PFDataCompiler",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -915,12 +1348,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Need For Speed 3/4 modding tool",
+            "homepage": null,
             "id": 768741482,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-10T09:26:37Z",
+            "open_issues": 0,
             "owner": "TheXDS",
             "repo": "Vivianne",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "electronic-arts",
+              "modding-tools",
+              "need-for-speed",
+              "need-for-speed-high-stakes",
+              "need-for-speed-hot-pursuit"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -931,12 +1375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NFS ProStreet/Undercover/World speech editor",
+            "homepage": null,
             "id": 687371559,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-09-10T22:22:05Z",
+            "open_issues": 1,
             "owner": "TheUnpunished",
             "repo": "SpeechTool",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -947,12 +1396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tmx sound file encoder and extractor for NFS games",
+            "homepage": null,
             "id": 687166303,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-03-15T19:15:10Z",
+            "open_issues": 0,
             "owner": "TheUnpunished",
             "repo": "tmxtool",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -971,12 +1425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files",
+                "homepage": null,
                 "id": 45210272,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-31T10:51:50Z",
+                "open_issues": 150,
                 "owner": "Norbyte",
                 "repo": "lslib",
-                "stars": 926
+                "stars": 926,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -994,12 +1453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mod manager for Baldur's Gate 3. This is the only official source!",
+                "homepage": null,
                 "id": 309085353,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-07T21:08:23Z",
+                "open_issues": 201,
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1827
+                "stars": 1828,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -1010,12 +1474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Baldur's Gate 3 Script Extender",
+                "homepage": null,
                 "id": 334630126,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T15:25:47Z",
+                "open_issues": 207,
                 "owner": "Norbyte",
                 "repo": "bg3se",
-                "stars": 1496
+                "stars": 1496,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -1026,12 +1495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WASD Character Movement Mod for Baldur's Gate 3",
+                "homepage": null,
                 "id": 677392936,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-02T14:01:00Z",
+                "open_issues": 14,
                 "owner": "Ch4nKyy",
                 "repo": "BG3WASD",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -1042,12 +1516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Baldur's Gate 3 camera mod to zoom and tilt the camera",
+                "homepage": null,
                 "id": 674830732,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-08-16T14:28:40Z",
+                "open_issues": 5,
                 "owner": "shalzuth",
                 "repo": "BG3Cam",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -1058,12 +1537,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enables steam & GOG achievement for Baldur's Gate 3 with mods. ",
+                "homepage": "https://www.nexusmods.com/baldursgate3/mods/668",
                 "id": 676064654,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-08-11T22:55:00Z",
+                "open_issues": 2,
                 "owner": "gottyduke",
                 "repo": "BG3_AchievementEnabler",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "baldurs-gate-3"
+                ]
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -1081,12 +1567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced scripting and mod support for Divinity Original Sin 2",
+                "homepage": null,
                 "id": 120127571,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-01-14T23:40:26Z",
+                "open_issues": 71,
                 "owner": "Norbyte",
                 "repo": "ositools",
-                "stars": 486
+                "stars": 486,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -1097,12 +1588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mod manager for Divinity: Original Sin - Definitive Edition.",
+                "homepage": null,
                 "id": 204362083,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-24T00:48:14Z",
+                "open_issues": 11,
                 "owner": "LaughingLeader-DOS2-Mods",
                 "repo": "DivinityModManager",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -1126,12 +1622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WolvenKit for Witcher 3",
+                "homepage": null,
                 "id": 413300672,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-28T12:09:39Z",
+                "open_issues": 19,
                 "owner": "WolvenKit",
                 "repo": "WolvenKit-7",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -1149,12 +1650,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cyberpunk 2077 tweaks, hacks and scripting framework",
+                "homepage": null,
                 "id": 320921453,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-09T17:54:22Z",
+                "open_issues": 39,
                 "owner": "maximegmd",
                 "repo": "CyberEngineTweaks",
-                "stars": 4807
+                "stars": 4807,
+                "topics": [
+                  "cyberpunk",
+                  "cyberpunk2077"
+                ]
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -1165,12 +1674,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community Mod editor/creator for REDengine games.",
+                "homepage": "http://redmodding.org/",
                 "id": 79343641,
                 "language": "C#",
-                "last_commit": "2026-08-27T16:55:20Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T02:57:38Z",
+                "open_issues": 328,
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1184
+                "stars": 1185,
+                "topics": [
+                  "cyberpunk2077",
+                  "game",
+                  "hacktoberfest",
+                  "modding-tools",
+                  "witcher-3"
+                ]
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             },
@@ -1181,12 +1701,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mod Manager for Cyber Engine Tweaks based mods",
+                "homepage": "https://www.nexusmods.com/cyberpunk2077/mods/895",
                 "id": 329083719,
                 "language": "Lua",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-07T10:57:40Z",
+                "open_issues": 1,
                 "owner": "Nats-ji",
                 "repo": "CET-Mod-Manager",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "cyberenginetweaks",
+                  "cyberpunk",
+                  "cyberpunk-2077",
+                  "cyberpunk-mods",
+                  "cyberpunk2077",
+                  "mod",
+                  "mod-manager"
+                ]
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
             }
@@ -1208,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ headers for Star Wars Republic Commando",
+            "homepage": null,
             "id": 142595037,
             "language": "C",
+            "license": null,
             "last_commit": "2026-07-29T22:55:31Z",
+            "open_issues": 0,
             "owner": "SWRC-Modding",
             "repo": "CT",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1224,12 +1762,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete world editor for SWBF2 (2005). Names are hard.",
+            "homepage": null,
             "id": 224411362,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T21:22:37Z",
+            "open_issues": 0,
             "owner": "PrismaticFlower",
             "repo": "WorldEdit",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "modding",
+              "modding-tools"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -1246,28 +1792,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The one and only mod loader for Anno 1800, supports loading of unpacked RDA files, XML merging and Python mods.",
+            "homepage": null,
             "id": 186511189,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-08-04T16:22:28Z",
+            "open_issues": 57,
             "owner": "magicalcookie",
             "repo": "anno1800-mod-loader",
-            "stars": 367
-          },
-          "first_seen": "2026-08-28T15:30:25.688Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Jakob's Collection - Anno 1800 Mods",
-          "description": "Collection of mods providing new tiers, products, industries and more than 300 new visual assets (custom models, variations, skins).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 407930540,
-            "language": null,
-            "last_commit": "2025-05-05T19:00:11Z",
-            "owner": "jakobharder",
-            "repo": "anno1800-jakobs-mods",
-            "stars": 49
+            "stars": 367,
+            "topics": [
+              "anno",
+              "anno1800",
+              "cpp",
+              "cpp17",
+              "mod",
+              "modding",
+              "modding-games",
+              "mods",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1278,12 +1823,44 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WIP Mod Manager for Anno 1800",
+            "homepage": "https://manager.anno-mods.dev",
             "id": 427774281,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-04T16:47:50Z",
+            "open_issues": 46,
             "owner": "anno-mods",
             "repo": "iModYourAnno",
-            "stars": 48
+            "stars": 49,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Jakob's Collection - Anno 1800 Mods",
+          "description": "Collection of mods providing new tiers, products, industries and more than 300 new visual assets (custom models, variations, skins).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mods for Anno 1800 created by me.",
+            "homepage": "https://mod.io/g/anno-1800/u/jakobscollection",
+            "id": 407930540,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2025-05-05T19:00:11Z",
+            "open_issues": 4,
+            "owner": "jakobharder",
+            "repo": "anno1800-jakobs-mods",
+            "stars": 49,
+            "topics": [
+              "anno",
+              "anno1800",
+              "mod",
+              "modding",
+              "modding-games"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -1300,12 +1877,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reimplementation of the minecraft server in rust.",
+            "homepage": null,
             "id": 686252426,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-14T15:03:31Z",
+            "open_issues": 26,
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2390
+            "stars": 2390,
+            "topics": [
+              "async-rust",
+              "concurrency",
+              "cross-platform",
+              "game-development",
+              "game-engine",
+              "game-server",
+              "minecraft",
+              "minecraft-protocol",
+              "minecraft-server",
+              "modding",
+              "multiplayer",
+              "networking",
+              "open-source",
+              "packet-handler",
+              "performance",
+              "protocol-implementation",
+              "rust",
+              "server-framework",
+              "tokio"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1316,12 +1918,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases",
+            "homepage": null,
             "id": 403035155,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-05-16T10:41:14Z",
+            "open_issues": 67,
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1419
+            "stars": 1419,
+            "topics": [
+              "curseforge",
+              "github-releases",
+              "minecraft",
+              "minecraft-mod",
+              "mod-manager",
+              "modrinth",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1332,12 +1947,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 The curated list of awesome things related to Minecraft.",
+            "homepage": null,
             "id": 135013128,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-23T13:16:01Z",
+            "open_issues": 21,
             "owner": "bs-community",
             "repo": "awesome-minecraft",
-            "stars": 644
+            "stars": 644,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "minecraft"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1348,12 +1972,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📜 A list of websites that are illegally redistributing game mods",
+            "homepage": "http://stopmodreposts.org",
             "id": 28660659,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-13T23:22:09Z",
+            "open_issues": 21,
             "owner": "StopModReposts",
             "repo": "Illegal-Mod-Sites",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "community",
+              "game-modding",
+              "modding",
+              "mods",
+              "movement",
+              "stopmodreposts"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1364,12 +2000,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Qt-based mod manager for minecraft.",
+            "homepage": null,
             "id": 395224345,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-12T10:31:37Z",
+            "open_issues": 19,
             "owner": "kaniol-lck",
             "repo": "modmanager",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "aria2",
+              "minecraft",
+              "minecraft-mod",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1380,12 +2026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome open-source projects which use the Modrinth API",
+            "homepage": null,
             "id": 487643136,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-07-02T23:43:14Z",
+            "open_issues": 4,
             "owner": "modrinth",
             "repo": "awesome",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1396,12 +2047,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install and update mods from CurseForge and Modrinth through a CLI",
+            "homepage": null,
             "id": 311102509,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-15T06:21:08Z",
+            "open_issues": 30,
             "owner": "Senth",
             "repo": "minecraft-mod-manager",
-            "stars": 77
+            "stars": 77,
+            "topics": [
+              "cli",
+              "curseforge",
+              "minecraft",
+              "modrinth",
+              "mods"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1412,12 +2074,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GUI Minecraft mod manager",
+            "homepage": null,
             "id": 451988750,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-03-17T00:25:06Z",
+            "open_issues": 3,
             "owner": "4JX",
             "repo": "mCubed",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "management",
+              "minecraft",
+              "modmanager",
+              "modrinth"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -1434,12 +2106,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mod manager for Sonic Generations, Sonic Lost World, Sonic Forces, Sonic Colours Ultimate and other PC Hedgehog Engine games.",
+            "homepage": null,
             "id": 85563749,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-20T16:57:47Z",
+            "open_issues": 48,
             "owner": "thesupersonic16",
             "repo": "HedgeModManager",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "csharp",
+              "mod-manager",
+              "sonic-colors-ultimate",
+              "sonic-forces",
+              "sonic-generations",
+              "sonic-lost-world",
+              "sonic-origins"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1450,12 +2135,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new mod manager for the Sonic Adventure games. ",
+            "homepage": null,
             "id": 674866425,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-07T17:13:34Z",
+            "open_issues": 27,
             "owner": "X-Hax",
             "repo": "SA-Mod-Manager",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "csharp",
+              "mod-manager",
+              "modding",
+              "sonic-adventure",
+              "sonic-adventure-2"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1466,12 +2162,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier.",
+            "homepage": null,
             "id": 81616554,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-06-25T01:42:59Z",
+            "open_issues": 46,
             "owner": "Radfordhound",
             "repo": "HedgeLib",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "game",
+              "gui",
+              "havok",
+              "modding",
+              "modding-games",
+              "sonic",
+              "sonic-colors",
+              "sonic-forces",
+              "sonic-frontiers",
+              "sonic-generations",
+              "sonic-lost-world",
+              "sonic-the-hedgehog",
+              "sonic-unleashed",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1482,12 +2198,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mod manager for SONIC THE HEDGEHOG",
+            "homepage": null,
             "id": 192420517,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-05T13:38:50Z",
+            "open_issues": 6,
             "owner": "hyperbx",
             "repo": "SonicNextModManager",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "mod-loader",
+              "mod-manager",
+              "playstation-3",
+              "sonic-the-hedgehog",
+              "xbox-360"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1498,12 +2225,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive version of Sonic Adventure.",
+            "homepage": "https://steamcommunity.com/sharedfiles/filedetails/?id=299808681",
             "id": 92230526,
             "language": "HLSL",
+            "license": null,
             "last_commit": "2025-06-24T16:44:21Z",
+            "open_issues": 0,
             "owner": "Carlmundo",
             "repo": "BetterSADX",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "game-mod",
+              "game-modding",
+              "gaming",
+              "mod",
+              "sonic",
+              "sonic-the-hedgehog"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1514,12 +2253,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit and library for SONIC THE HEDGEHOG (2006) file formats",
+            "homepage": null,
             "id": 182550617,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-24T04:32:38Z",
+            "open_issues": 4,
             "owner": "hyperbx",
             "repo": "Marathon",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "api",
+              "gui",
+              "marathon",
+              "modding-tools",
+              "sonic-06",
+              "sonic-the-hedgehog",
+              "sonicnext"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -1536,12 +2288,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Offline Yu-Gi-Oh! Master Duel",
+            "homepage": null,
             "id": 453673897,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-07T16:16:55Z",
+            "open_issues": 11,
             "owner": "pixeltris",
             "repo": "YgoMaster",
-            "stars": 1350
+            "stars": 1350,
+            "topics": [
+              "masterduel",
+              "yugioh"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1552,12 +2312,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EDOPRO Skinpack - updated by Lahrenheit",
+            "homepage": null,
             "id": 274984235,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-23T22:03:44Z",
+            "open_issues": 0,
             "owner": "Lahrenheit",
             "repo": "EDOPRO-Skinpack",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "devpro",
+              "duel-generation",
+              "edopro",
+              "hd-pics",
+              "joey-the-passion",
+              "kaiba-the-revenge",
+              "lahrenheit",
+              "master-duel",
+              "pack",
+              "pics",
+              "power-of-chaos",
+              "projectignis",
+              "skin",
+              "skinpack",
+              "skins",
+              "themes",
+              "ygopro",
+              "yu-gi-oh",
+              "yugi-the-destiny",
+              "yugioh"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1568,12 +2354,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Downloads HD cards arts images for ProjectIgnis: EDOPro",
+            "homepage": null,
             "id": 352394533,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-16T15:21:41Z",
+            "open_issues": 3,
             "owner": "NiiMiyo",
             "repo": "EDOPro-Hd-Downloader",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "edopro",
+              "python",
+              "python3",
+              "yugioh"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1584,12 +2380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 455572965,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-26T01:18:56Z",
+            "open_issues": 0,
             "owner": "SethPDA",
             "repo": "MasterDuel-Modding",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1600,12 +2401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 690344607,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-30T21:06:57Z",
+            "open_issues": 34,
             "owner": "alexjraymond",
             "repo": "DuelingBookEnhanced",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1616,12 +2422,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fully customizable Dark mode, Avatar, BG, Font for Duelingbook",
+            "homepage": null,
             "id": 387619458,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-08-02T02:56:22Z",
+            "open_issues": 0,
             "owner": "mykesXD",
             "repo": "Duelingbook-Dark-Mode",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "css",
+              "dark-theme",
+              "yugioh"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1632,12 +2447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Duelingbook minimal / material theme built upon https://github.com/mykesXD/Duelingbook-Dark-Mode",
+            "homepage": null,
             "id": 581240710,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-20T08:59:49Z",
+            "open_issues": 0,
             "owner": "QuotedTF",
             "repo": "duelingbook-dark-minimal",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1648,12 +2468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Duelingbook keyboard shortcuts",
+            "homepage": null,
             "id": 606577361,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-28T05:25:22Z",
+            "open_issues": 0,
             "owner": "ReinUsesLisp",
             "repo": "dbshortcuts",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1664,12 +2489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Play DuelingBook on Desktop as a standalone chromium app. Load custom themes and experience better performance as well as customization.",
+            "homepage": null,
             "id": 889995071,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-17T21:23:15Z",
+            "open_issues": 0,
             "owner": "H3xtia",
             "repo": "DuelingBookClient",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -1686,12 +2516,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unity / XNA game patcher and plugin framework",
+            "homepage": null,
             "id": 121067132,
             "language": "C#",
+            "license": "LGPL-2.1",
             "last_commit": "2026-06-28T16:08:10Z",
+            "open_issues": 388,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8523
+            "stars": 8525,
+            "topics": [
+              "bepinex",
+              "framework",
+              "il2cpp",
+              "mod-loader",
+              "modding",
+              "modloader",
+              "mono",
+              "patcher",
+              "unity",
+              "unity-mono",
+              "unity3d",
+              "xna",
+              "xna-framework"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1702,12 +2551,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.",
+            "homepage": null,
             "id": 285821974,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-13T17:35:42Z",
+            "open_issues": 56,
             "owner": "sinai-dev",
             "repo": "UnityExplorer",
-            "stars": 3139
+            "stars": 3139,
+            "topics": [
+              "bepinex",
+              "il2cpp",
+              "melonloader",
+              "modding",
+              "modding-tools",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1718,12 +2579,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-game inspector and debugging tools for applications made with Unity3D game engine",
+            "homepage": null,
             "id": 160832625,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-04T01:00:52Z",
+            "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1107
+            "stars": 1107,
+            "topics": [
+              "bepinex",
+              "debugging-tool",
+              "game-development",
+              "modding-tools",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1734,12 +2606,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mod Project Development Environment for Unity and Unity Games",
+            "homepage": null,
             "id": 268167001,
             "language": "C#",
+            "license": "MS-PL",
             "last_commit": "2026-08-22T20:28:42Z",
+            "open_issues": 4,
             "owner": "PassivePicasso",
             "repo": "ThunderKit",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "modding",
+              "modding-tools",
+              "unity",
+              "unity-games",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -1756,12 +2639,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Viewer and exporter for Unreal Engine 1-4 assets (UE Viewer).",
+            "homepage": "https://www.gildor.org/en/projects/umodel",
             "id": 24237071,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-03-16T17:58:33Z",
+            "open_issues": 25,
             "owner": "gildor2",
             "repo": "UEViewer",
-            "stars": 2917
+            "stars": 2919,
+            "topics": [
+              "3d",
+              "actorx",
+              "cross-platform",
+              "exporter",
+              "fortnite",
+              "gltf",
+              "gltf2",
+              "model-viewer",
+              "opengl",
+              "skeletal-animation",
+              "ue-viewer",
+              "ue4",
+              "umodel",
+              "unreal",
+              "unreal-engine",
+              "unreal-engine-4",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1772,12 +2678,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for working with Unreal Engine 4. (Awesome Unreal Engine 4)",
+            "homepage": null,
             "id": 83758999,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-09-19T21:39:00Z",
+            "open_issues": 8,
             "owner": "terrehbyte",
             "repo": "awesome-ue4",
-            "stars": 802
+            "stars": 802,
+            "topics": [
+              "awesome",
+              "ue4",
+              "unreal-engine-4"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1788,12 +2703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unreal plug-in that integrates Dear ImGui framework into Unreal Engine 4.",
+            "homepage": null,
             "id": 106341355,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-07-22T02:11:17Z",
+            "open_issues": 36,
             "owner": "segross",
             "repo": "UnrealImGui",
-            "stars": 766
+            "stars": 766,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1804,12 +2724,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unreal Engine .pak file library and CLI in rust",
+            "homepage": null,
             "id": 589879424,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-20T19:41:42Z",
+            "open_issues": 13,
             "owner": "trumank",
             "repo": "repak",
-            "stars": 558
+            "stars": 559,
+            "topics": [
+              "modding-tools",
+              "pak",
+              "unreal-engine-4",
+              "unrealpak"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1820,12 +2750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 360029943,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2023-04-16T16:51:24Z",
+            "open_issues": 21,
             "owner": "RussellJerome",
             "repo": "UnrealModLoader",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1836,12 +2771,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an editor for cooked unreal engine 4/5 maps",
+            "homepage": null,
             "id": 559032964,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-12-13T12:58:09Z",
+            "open_issues": 15,
             "owner": "bananaturtlesandwich",
             "repo": "stove",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "level-editor",
+              "modding-tools",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1852,12 +2796,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unreal Engine Plugin for easily integrating mod.io into your game - the UGC management service for game developers ",
+            "homepage": "https://mod.io",
             "id": 399311748,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-18T06:42:41Z",
+            "open_issues": 0,
             "owner": "modio",
             "repo": "modio-ue",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "cpp",
+              "modding",
+              "modio",
+              "sdk",
+              "ugc",
+              "unreal-engine",
+              "unreal-engine-4",
+              "unreal-engine-5"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -1874,12 +2832,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom launcher for FFXIV",
+            "homepage": "https://goatcorp.github.io/",
             "id": 68534745,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-14T14:09:29Z",
+            "open_issues": 617,
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3157
+            "stars": 3157,
+            "topics": [
+              "discord",
+              "ff14",
+              "ffxiv",
+              "ffxivlauncher",
+              "final-fantasy-xiv",
+              "launcher",
+              "rich-presence"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1890,12 +2861,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Renovation Engine for DirectX Games",
+            "homepage": null,
             "id": 753163587,
             "language": "HLSL",
-            "last_commit": "2026-08-28T14:56:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:21:14Z",
+            "open_issues": 81,
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1658
+            "stars": 1683,
+            "topics": [
+              "directx",
+              "games",
+              "hdr",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1906,12 +2887,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An all-in-one tool that lets you easly manage BeatSaber versions, maps, mods, and even more.",
+            "homepage": null,
             "id": 491663939,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T16:43:08Z",
+            "open_issues": 162,
             "owner": "Zagrios",
             "repo": "bs-manager",
-            "stars": 1144
+            "stars": 1145,
+            "topics": [
+              "beatsaber",
+              "beatsaber-mods",
+              "downgrade",
+              "launcher",
+              "launcher-application",
+              "modding-tools"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1922,12 +2915,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source re-implementation of Tomb Raider I, Tomb Raider II and Tomb Raider III, along with additional enhancements and bugfixes",
+            "homepage": "https://lostartefacts.dev/",
             "id": 336902304,
             "language": "C",
-            "last_commit": "2026-08-28T12:07:25Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T20:48:53Z",
+            "open_issues": 152,
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 976
+            "stars": 976,
+            "topics": [
+              "game",
+              "game-modding",
+              "reverse-engineering",
+              "tomb-raider"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1938,12 +2941,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation modding platform for Final Fantasy VII (Steam 2013, Steam 2026 Rerelease, GOG, Windows Store) and Final Fantasy VIII (Steam 2013)",
+            "homepage": null,
             "id": 165160518,
             "language": "C++",
-            "last_commit": "2026-08-28T01:19:55Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T23:30:13Z",
+            "open_issues": 62,
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
-            "stars": 511
+            "stars": 511,
+            "topics": [
+              "directx11",
+              "directx12",
+              "final-fantasy",
+              "modding",
+              "modding-framework",
+              "modding-games",
+              "modding-library",
+              "opengl",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1954,12 +2972,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
+            "homepage": "https://docs.ficsit.app/satisfactory-modding/latest/ForUsers/Welcome.html",
             "id": 178745575,
             "language": "Svelte",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T12:45:23Z",
+            "open_issues": 103,
             "owner": "satisfactorymodding",
             "repo": "SatisfactoryModManager",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "ficsit",
+              "gui",
+              "mod-manager",
+              "satisfactory"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1970,12 +2998,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of tools to manage and modify files from many various games.",
+            "homepage": null,
             "id": 149971621,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T20:21:48Z",
+            "open_issues": 7,
             "owner": "bartlomiejduda",
             "repo": "Tools",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "compression",
+              "encryption",
+              "fileformat",
+              "fileformats",
+              "modding",
+              "modding-games",
+              "modding-tools",
+              "pc",
+              "ps1",
+              "psx",
+              "python",
+              "re",
+              "reverse-engineering",
+              "reverseengineering",
+              "romhacking",
+              "tools",
+              "translation",
+              "translation-tool",
+              "utilities",
+              "xentax"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -1986,12 +3040,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CE/H2/H3/ODST JMS/JMA/ASS exporter for Blender",
+            "homepage": null,
             "id": 230344186,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-22T09:11:43Z",
+            "open_issues": 12,
             "owner": "General-101",
             "repo": "Halo-Asset-Blender-Development-Toolset",
-            "stars": 152
+            "stars": 152,
+            "topics": [
+              "animation",
+              "ass",
+              "blender",
+              "exporter",
+              "halo",
+              "halo-ce",
+              "halo2",
+              "halo3",
+              "halo3odst",
+              "importer",
+              "jma",
+              "jmi",
+              "jms",
+              "levels",
+              "mit-license",
+              "modding",
+              "modding-tools",
+              "models",
+              "opensource"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2002,12 +3081,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An external mod manager for the new Microsoft Flight Simulator",
+            "homepage": null,
             "id": 290394215,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-01T07:38:40Z",
+            "open_issues": 4,
             "owner": "NathanVaughn",
             "repo": "msfs-mod-manager",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "microsoft-flight-simulator",
+              "microsoft-flight-simulator-2020",
+              "mod-manager"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2018,12 +3106,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Decompilation project for Tomb Raider II (1997), along with additional enhancements and bugfixes",
+            "homepage": "https://lostartefacts.dev/",
             "id": 694804768,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-04T10:47:14Z",
+            "open_issues": 0,
             "owner": "LostArtefacts",
             "repo": "TR2X",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "game",
+              "game-modding",
+              "reverse-engineering",
+              "tomb-raider"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2034,12 +3132,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Among Us Mod Manager",
+            "homepage": "https://goodloss.fr",
             "id": 336619412,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-09-24T10:17:37Z",
+            "open_issues": 4,
             "owner": "MatuxGG",
             "repo": "ModManager",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "amongus",
+              "bepinex",
+              "goodloss",
+              "mod",
+              "mod-manager"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2050,12 +3159,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Plugin Manager for Bombsquad 1.7+",
+            "homepage": "https://bombsquad-community.web.app/pluginmanager",
             "id": 500410459,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T12:25:30Z",
+            "open_issues": 35,
             "owner": "bombsquad-community",
             "repo": "plugin-manager",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "bombsquad",
+              "mod-manager",
+              "mods",
+              "plugin",
+              "plugin-manager",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2066,12 +3187,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Blender addon supporting asset creation for Halo Reach, Halo 4, and Halo 2 Anniversary Multiplayer",
+            "homepage": "https://c20.reclaimers.net/",
             "id": 534164472,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T00:03:41Z",
+            "open_issues": 1,
             "owner": "ILoveAGoodCrisp",
             "repo": "Foundry",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "blender-addon",
+              "exporter",
+              "gr2",
+              "halo",
+              "halo-reach",
+              "halo2amp",
+              "halo4",
+              "lightmap",
+              "managedblam",
+              "modding",
+              "modding-tools"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2082,12 +3220,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross platform Elder Scrolls Online CLI mod manager",
+            "homepage": null,
             "id": 324771729,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-03-06T18:00:15Z",
+            "open_issues": 19,
             "owner": "Trojan295",
             "repo": "eso-addons",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "addons",
+              "eso",
+              "mods"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2098,12 +3245,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fallout 2 map editor",
+            "homepage": null,
             "id": 322922267,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:41:50Z",
+            "open_issues": 15,
             "owner": "JanSimek",
             "repo": "gecko",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "fallout",
+              "fallout2",
+              "map-editor",
+              "mapper",
+              "modding-tools",
+              "qt",
+              "sfml"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2114,12 +3274,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Level editor for games using ELB's Kal engine, such as XXL 1/2 and Olympic Games, original and remaster",
+            "homepage": "https://discord.gg/G2EwU9nYDw",
             "id": 249991309,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-02-05T21:48:14Z",
+            "open_issues": 0,
             "owner": "AdrienTD",
             "repo": "XXL-Editor",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "level-editor",
+              "modding",
+              "modding-tools"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2130,12 +3299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ubitunedec is a program for decoding and exporting the .SPK audio files found in Ubisoft game .DAT files. Essentially the program can play back and decode sound and music encoded into the game files. ",
+            "homepage": null,
             "id": 137147056,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-06-13T01:50:29Z",
+            "open_issues": 1,
             "owner": "ldeon",
             "repo": "Ubitunedec",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2146,12 +3320,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Fire Emblem modding resources.",
+            "homepage": null,
             "id": 244086502,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-11T10:18:51Z",
+            "open_issues": 0,
             "owner": "laqieer",
             "repo": "awesome-fireemblem-modding",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "fire-emblem",
+              "fire-emblem-modding"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2162,12 +3344,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Add-on manager for Left 4 Dead 2",
+            "homepage": null,
             "id": 623327223,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-18T12:31:20Z",
+            "open_issues": 5,
             "owner": "kinten108101",
             "repo": "steam-vpk",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "gjs",
+              "gnome",
+              "gtk4",
+              "l4d2",
+              "libadwaita",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         },
@@ -2178,12 +3372,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔧 Painless mod manager for FlatOut 2",
+            "homepage": "https://sech1p.ovh/projects/fo2_modmanager",
             "id": 817446646,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-19T18:37:57Z",
+            "open_issues": 0,
             "owner": "d34dinsid3k1tty",
             "repo": "FlatOut2ModManager",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "flatout2",
+              "mod-manager"
+            ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
         }
@@ -2192,15 +3394,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:30:25.688Z",
+    "last_updated": "2026-08-29T05:03:59.869Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of video game modding projects and resources.",
+      "homepage": null,
       "id": 584106537,
       "language": "Nix",
+      "license": "CC0-1.0",
       "last_commit": "2025-11-24T20:18:57Z",
+      "open_issues": 4,
       "owner": "loicreynier",
       "repo": "awesome-modding.bak",
-      "stars": 53
+      "stars": 53,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "game-modding",
+        "game-mods",
+        "list",
+        "mod",
+        "mod-manager",
+        "modding",
+        "modding-games",
+        "modding-tools",
+        "mods"
+      ]
     },
     "original_repository_sha": "ed02b4fe1a751cb782e4debd6f6337f920d7ce3b",
     "enhanced_repository": "enhansome/enhansome-modding.bak",
