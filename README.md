@@ -90,7 +90,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 * [Limo](https://github.com/limo-app/limo) ⭐ 771 | 🐛 170 | 🌐 C++ | 📅 2025-05-03 - General purpose mod manager primarily developed for Linux with support for the Nexus Mods API and LOOT.
 * [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) ⭐ 756 | 🐛 21 | 🌐 C# | 📅 2024-09-26 - Mod manager for Frostbite engine games.
 * [Rai Pal](https://github.com/Raicuparta/rai-pal) ⭐ 713 | 🐛 19 | 🌐 Rust | 📅 2026-08-28 - Mod manager for universal mods.
-* [Arisen Studio](https://github.com/ohhsodead/arisen-studio) ⭐ 264 | 🐛 26 | 🌐 C# | 📅 2026-08-22 - Mod manager for PS3 and Xbox 360.
+* [Arisen Studio](https://github.com/ohhsodead/arisen-studio) ⭐ 264 | 🐛 26 | 🌐 C# | 📅 2026-08-29 - Mod manager for PS3 and Xbox 360.
 * [Fluffy's Steam Mod Manager](https://github.com/fluffy-mods/ModManager/tree/1.4) ⭐ 106 | 🐛 56 | 🌐 C# | 📅 2023-10-18 - Mod manager for Steam Workshop.
 * [AMMO (Almost Manual Mod Manager)](https://github.com/cyberrumor/ammo) ⭐ 62 | 🐛 8 | 🌐 Python | 📅 2026-08-24 - Terminal based Linux mod manager for Bethesda games.
 * [dmodman](https://github.com/dandels/dmodman) ⭐ 57 | 🐛 4 | 🌐 Rust | 📅 2024-12-19 - Linux TUI mod downloader & update checker for Nexus Mods.
@@ -317,7 +317,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Mesh and textures manipulation tools.
 
 * [BodySlide and Outfit Studio](https://github.com/ousnius/BodySlide-and-Outfit-Studio) ⭐ 358 | 🐛 12 | 🌐 C++ | 📅 2026-08-17 - Tool to convert, create, and customize outfits and bodies for The Elder Scrolls and Fallout.
-* [PyNifly](https://github.com/BadDogSkyrim/PyNifly) ⭐ 303 | 🐛 118 | 🌐 Python | 📅 2026-08-28 - Blender addon to import/export NIF files with support for Skyrim LE, Skyrim SE, Fallout 4, Fallout New Vegas, Fallout 76, and Fallout 3.
+* [PyNifly](https://github.com/BadDogSkyrim/PyNifly) ⭐ 303 | 🐛 119 | 🌐 Python | 📅 2026-08-28 - Blender addon to import/export NIF files with support for Skyrim LE, Skyrim SE, Fallout 4, Fallout New Vegas, Fallout 76, and Fallout 3.
 * [BSA Browser](https://github.com/AlexxEG/BSA_Browser) ⭐ 129 | 🐛 3 | 🌐 C# | 📅 2026-04-18 - Bethesda Archive (BSA and BA2) browser & extractor application.
 * [DDS Texture Scanner](https://github.com/niston/TextureScan) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2023-06-03 - Application scanning for DDS textures with abnormal dimensions.
 * [BAE](https://www.nexusmods.com/starfield/mods/165) - Bethesda Archive Extractor application.
@@ -331,7 +331,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Plugin manipulation tools.
 
-* [Synthesis](https://github.com/Mutagen-Modding/Synthesis) ⭐ 346 | 🐛 190 | 🌐 C# | 📅 2026-08-21 - Framework and GUI to empower people to create mods via code instead of by hand, mainly used to create patches.
+* [Synthesis](https://github.com/Mutagen-Modding/Synthesis) ⭐ 346 | 🐛 191 | 🌐 C# | 📅 2026-08-21 - Framework and GUI to empower people to create mods via code instead of by hand, mainly used to create patches.
 * [Spriggit](https://github.com/Mutagen-Modding/Spriggit) ⭐ 127 | 🐛 45 | 🌐 C# | 📅 2026-07-10 - Tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git.
 * [xEdit](https://tes5edit.github.io) - Advanced graphical module editor and conflict detector for Bethesda games.
 
@@ -635,7 +635,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to modding Sonic games.
 
 * [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) ⭐ 490 | 🐛 48 | 🌐 C# | 📅 2026-07-20 - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
-* [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) ⭐ 160 | 🐛 27 | 🌐 C# | 📅 2026-08-07 - Mod Manager for Sonic Adventure PC games.
+* [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) ⭐ 160 | 🐛 26 | 🌐 C# | 📅 2026-08-07 - Mod Manager for Sonic Adventure PC games.
 * [HedgeLib](https://github.com/Radfordhound/HedgeLib) ⭐ 119 | 🐛 46 | 🌐 C++ | 📅 2026-06-25 - C++ library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier.
 * [Sonic 06' Mod Manager](https://github.com/hyperbx/SonicNextModManager) ⭐ 44 | 🐛 6 | 🌐 C# | 📅 2025-07-05 - Mod loader for Sonic the Hedgehog (2006, Xbox 360/PS3).
 * [BetterSADX](https://github.com/Carlmundo/BetterSADX) ⭐ 42 | 🐛 0 | 🌐 HLSL | 📅 2025-06-24 - Mod pack (better graphics, full controller supporter, etc) for Steam port of Sonic Adventure Director Cut.
@@ -690,7 +690,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 * [UE Viewer](https://github.com/gildor2/UEViewer) ⭐ 2,919 | 🐛 25 | 🌐 C++ | 📅 2024-03-16 - Viewer and exporter for Unreal Engine 1–4 assets.
 * [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) ⭐ 802 | 🐛 8 | 📅 2023-09-19 - Curated list of resources for working with Unreal Engine 4.
-* [Unreal ImGui](https://github.com/segross/UnrealImGui) ⭐ 766 | 🐛 36 | 🌐 C++ | 📅 2024-07-22 - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,920 | 🐛 1,239 | 🌐 C++ | 📅 2026-08-28 framework into Unreal Engine 4.
+* [Unreal ImGui](https://github.com/segross/UnrealImGui) ⭐ 766 | 🐛 36 | 🌐 C++ | 📅 2024-07-22 - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 75,927 | 🐛 1,240 | 🌐 C++ | 📅 2026-08-28 framework into Unreal Engine 4.
 * [repak](https://github.com/trumank/repak) ⭐ 559 | 🐛 13 | 🌐 Rust | 📅 2026-02-20 - Rust library and CLI tool for working with Unreal Engine 4 PAK files.
 * [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) ⭐ 245 | 🐛 21 | 🌐 C++ | 📅 2023-04-16 - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
 * [Stove](https://github.com/bananaturtlesandwich/stove) ⭐ 161 | 🐛 15 | 🌐 Rust | 📅 2024-12-13 - Editor for cooked Unreal Engine 4 maps.
@@ -724,8 +724,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Other Games
 
-* [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) ⭐ 3,157 | 🐛 617 | 🌐 C# | 📅 2026-02-14 - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
-* [RenoDX](https://github.com/clshortfuse/renodx) ⭐ 1,683 | 🐛 81 | 🌐 HLSL | 📅 2026-08-29 - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.
+* [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) ⭐ 3,158 | 🐛 617 | 🌐 C# | 📅 2026-02-14 - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
+* [RenoDX](https://github.com/clshortfuse/renodx) ⭐ 1,693 | 🐛 81 | 🌐 HLSL | 📅 2026-08-29 - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.
 * [BS Manager](https://github.com/Zagrios/bs-manager) ⭐ 1,145 | 🐛 162 | 🌐 TypeScript | 📅 2026-08-27 - Beat Sabers mod manager that also manages game versions.
 * [TR1X](https://github.com/LostArtefacts/TR1X) ⭐ 976 | 🐛 152 | 🌐 C | 📅 2026-08-28 - Open source re-implementation of Tomb Raider 1 (1996), along with additional enhancements and bugfixes.
 * [FFNx](https://github.com/julianxhokaxhiu/FFNx) ⭐ 511 | 🐛 62 | 🌐 C++ | 📅 2026-08-28 - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
