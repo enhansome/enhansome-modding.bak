@@ -92,7 +92,7 @@
             "open_issues": 26,
             "owner": "ohhsodead",
             "repo": "arisen-studio",
-            "stars": 264,
+            "stars": 266,
             "topics": [
               "cfw",
               "database",
@@ -361,7 +361,7 @@
             "open_issues": 150,
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2036,
+            "stars": 2038,
             "topics": [
               "framerate-fixer",
               "gaming",
@@ -389,7 +389,7 @@
             "open_issues": 47,
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 985,
+            "stars": 986,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -563,7 +563,7 @@
             "open_issues": 6,
             "owner": "xensik",
             "repo": "gsc-tool",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "advanced",
               "black",
@@ -737,7 +737,7 @@
                 "open_issues": 3,
                 "owner": "AlexxEG",
                 "repo": "BSA_Browser",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "bsa",
                   "bsa-browser",
@@ -1483,7 +1483,7 @@
                 "open_issues": 208,
                 "owner": "Norbyte",
                 "repo": "bg3se",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1659,7 +1659,7 @@
                 "open_issues": 40,
                 "owner": "maximegmd",
                 "repo": "CyberEngineTweaks",
-                "stars": 4802,
+                "stars": 4803,
                 "topics": [
                   "cyberpunk",
                   "cyberpunk2077"
@@ -1886,7 +1886,7 @@
             "open_issues": 26,
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2392,
+            "stars": 2393,
             "topics": [
               "async-rust",
               "concurrency",
@@ -1927,7 +1927,7 @@
             "open_issues": 67,
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1421,
+            "stars": 1422,
             "topics": [
               "curseforge",
               "github-releases",
@@ -1981,7 +1981,7 @@
             "open_issues": 21,
             "owner": "StopModReposts",
             "repo": "Illegal-Mod-Sites",
-            "stars": 306,
+            "stars": 305,
             "topics": [
               "community",
               "game-modding",
@@ -2032,10 +2032,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-02T23:43:14Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "modrinth",
             "repo": "awesome",
-            "stars": 201,
+            "stars": 200,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -2293,11 +2293,11 @@
             "id": 453673897,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-07T16:16:55Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-01T23:13:33Z",
+            "open_issues": 6,
             "owner": "pixeltris",
             "repo": "YgoMaster",
-            "stars": 1352,
+            "stars": 1355,
             "topics": [
               "masterduel",
               "yugioh"
@@ -2525,7 +2525,7 @@
             "open_issues": 381,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8549,
+            "stars": 8562,
             "topics": [
               "bepinex",
               "framework",
@@ -2615,7 +2615,7 @@
             "open_issues": 4,
             "owner": "PassivePicasso",
             "repo": "ThunderKit",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "modding",
               "modding-tools",
@@ -2841,7 +2841,7 @@
             "open_issues": 619,
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3160,
+            "stars": 3159,
             "topics": [
               "discord",
               "ff14",
@@ -2862,15 +2862,15 @@
           "repo_info": {
             "archived": false,
             "description": "Renovation Engine for DirectX Games",
-            "homepage": null,
+            "homepage": "https://renodx.com/",
             "id": 753163587,
             "language": "HLSL",
             "license": "MIT",
-            "last_commit": "2026-08-31T02:31:07Z",
-            "open_issues": 83,
+            "last_commit": "2026-09-02T02:57:44Z",
+            "open_issues": 84,
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1862,
+            "stars": 1906,
             "topics": [
               "directx",
               "games",
@@ -2892,8 +2892,8 @@
             "id": 491663939,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T14:28:37Z",
-            "open_issues": 160,
+            "last_commit": "2026-09-02T03:43:10Z",
+            "open_issues": 161,
             "owner": "Zagrios",
             "repo": "bs-manager",
             "stars": 1146,
@@ -2920,7 +2920,7 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T21:12:06Z",
+            "last_commit": "2026-09-01T20:53:56Z",
             "open_issues": 154,
             "owner": "LostArtefacts",
             "repo": "TRX",
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:46:48.989Z",
+    "last_updated": "2026-09-02T08:00:21.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of video game modding projects and resources.",
