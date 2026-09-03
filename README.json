@@ -361,7 +361,7 @@
             "open_issues": 150,
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2038,
+            "stars": 2039,
             "topics": [
               "framerate-fixer",
               "gaming",
@@ -687,7 +687,7 @@
                 "open_issues": 12,
                 "owner": "ousnius",
                 "repo": "BodySlide-and-Outfit-Studio",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "3d",
                   "3d-models",
@@ -793,7 +793,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-21T05:59:45Z",
-                "open_issues": 191,
+                "open_issues": 192,
                 "owner": "Mutagen-Modding",
                 "repo": "Synthesis",
                 "stars": 346,
@@ -817,7 +817,7 @@
                 "open_issues": 45,
                 "owner": "Mutagen-Modding",
                 "repo": "Spriggit",
-                "stars": 127,
+                "stars": 128,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1009,7 +1009,7 @@
                     "id": 539716886,
                     "language": "PowerShell",
                     "license": "MIT",
-                    "last_commit": "2026-03-09T13:43:35Z",
+                    "last_commit": "2026-09-02T20:23:28Z",
                     "open_issues": 2,
                     "owner": "adya",
                     "repo": "pack-skse-mod",
@@ -1199,7 +1199,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2025-05-14T10:44:36Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "xan1242",
             "repo": "NFSU-XtendedInput",
             "stars": 164,
@@ -1479,8 +1479,8 @@
                 "id": 334630126,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T15:25:47Z",
-                "open_issues": 208,
+                "last_commit": "2026-09-02T18:18:35Z",
+                "open_issues": 209,
                 "owner": "Norbyte",
                 "repo": "bg3se",
                 "stars": 1499,
@@ -1501,7 +1501,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-02T14:01:00Z",
-                "open_issues": 14,
+                "open_issues": 11,
                 "owner": "Ch4nKyy",
                 "repo": "BG3WASD",
                 "stars": 67,
@@ -1631,7 +1631,7 @@
                 "open_issues": 19,
                 "owner": "WolvenKit",
                 "repo": "WolvenKit-7",
-                "stars": 103,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1659,7 +1659,7 @@
                 "open_issues": 40,
                 "owner": "maximegmd",
                 "repo": "CyberEngineTweaks",
-                "stars": 4803,
+                "stars": 4805,
                 "topics": [
                   "cyberpunk",
                   "cyberpunk2077"
@@ -1750,7 +1750,7 @@
             "open_issues": 0,
             "owner": "SWRC-Modding",
             "repo": "CT",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1886,7 +1886,7 @@
             "open_issues": 26,
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2393,
+            "stars": 2394,
             "topics": [
               "async-rust",
               "concurrency",
@@ -2035,7 +2035,7 @@
             "open_issues": 5,
             "owner": "modrinth",
             "repo": "awesome",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -2112,7 +2112,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-20T16:57:47Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "thesupersonic16",
             "repo": "HedgeModManager",
             "stars": 491,
@@ -2144,7 +2144,7 @@
             "open_issues": 26,
             "owner": "X-Hax",
             "repo": "SA-Mod-Manager",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "csharp",
               "mod-manager",
@@ -2297,7 +2297,7 @@
             "open_issues": 6,
             "owner": "pixeltris",
             "repo": "YgoMaster",
-            "stars": 1355,
+            "stars": 1356,
             "topics": [
               "masterduel",
               "yugioh"
@@ -2525,7 +2525,7 @@
             "open_issues": 381,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8562,
+            "stars": 8569,
             "topics": [
               "bepinex",
               "framework",
@@ -2733,7 +2733,7 @@
             "open_issues": 13,
             "owner": "trumank",
             "repo": "repak",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "modding-tools",
               "pak",
@@ -2841,7 +2841,7 @@
             "open_issues": 619,
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3159,
+            "stars": 3158,
             "topics": [
               "discord",
               "ff14",
@@ -2866,11 +2866,11 @@
             "id": 753163587,
             "language": "HLSL",
             "license": "MIT",
-            "last_commit": "2026-09-02T02:57:44Z",
+            "last_commit": "2026-09-03T01:58:57Z",
             "open_issues": 84,
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 1906,
+            "stars": 2965,
             "topics": [
               "directx",
               "games",
@@ -2920,11 +2920,11 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T20:53:56Z",
-            "open_issues": 154,
+            "last_commit": "2026-09-02T17:28:08Z",
+            "open_issues": 151,
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 979,
+            "stars": 981,
             "topics": [
               "game",
               "game-modding",
@@ -2946,7 +2946,7 @@
             "id": 165160518,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T22:13:50Z",
+            "last_commit": "2026-09-02T22:47:15Z",
             "open_issues": 61,
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
@@ -2978,7 +2978,7 @@
             "language": "Svelte",
             "license": "GPL-3.0",
             "last_commit": "2026-08-25T12:45:23Z",
-            "open_issues": 103,
+            "open_issues": 105,
             "owner": "satisfactorymodding",
             "repo": "SatisfactoryModManager",
             "stars": 497,
@@ -3049,7 +3049,7 @@
             "open_issues": 12,
             "owner": "General-101",
             "repo": "Halo-Asset-Blender-Development-Toolset",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "animation",
               "ass",
@@ -3196,7 +3196,7 @@
             "open_issues": 1,
             "owner": "ILoveAGoodCrisp",
             "repo": "Foundry",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "blender-addon",
               "exporter",
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:00:21.721Z",
+    "last_updated": "2026-09-03T08:10:16.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of video game modding projects and resources.",
