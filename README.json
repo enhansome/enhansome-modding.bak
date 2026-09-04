@@ -65,7 +65,7 @@
             "open_issues": 19,
             "owner": "Raicuparta",
             "repo": "rai-pal",
-            "stars": 715,
+            "stars": 716,
             "topics": [
               "modding",
               "rust",
@@ -170,7 +170,7 @@
             "id": 210600925,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T19:11:23Z",
+            "last_commit": "2026-09-03T09:30:40Z",
             "open_issues": 4,
             "owner": "dandels",
             "repo": "dmodman",
@@ -361,7 +361,7 @@
             "open_issues": 150,
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2039,
+            "stars": 2043,
             "topics": [
               "framerate-fixer",
               "gaming",
@@ -386,10 +386,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-29T15:09:16Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 986,
+            "stars": 988,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -560,7 +560,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-26T16:53:55Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "xensik",
             "repo": "gsc-tool",
             "stars": 318,
@@ -713,7 +713,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-30T22:46:45Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
                 "stars": 304,
@@ -793,7 +793,7 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-21T05:59:45Z",
-                "open_issues": 192,
+                "open_issues": 191,
                 "owner": "Mutagen-Modding",
                 "repo": "Synthesis",
                 "stars": 346,
@@ -959,8 +959,8 @@
                     "id": 766623344,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-08-25T16:37:01Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-09-03T20:59:40Z",
+                    "open_issues": 13,
                     "owner": "Cutleast",
                     "repo": "SSE-Auto-Translator",
                     "stars": 32,
@@ -1202,7 +1202,7 @@
             "open_issues": 28,
             "owner": "xan1242",
             "repo": "NFSU-XtendedInput",
-            "stars": 164,
+            "stars": 165,
             "topics": [
               "game-controller",
               "game-input",
@@ -1462,7 +1462,7 @@
                 "open_issues": 201,
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1829,
+                "stars": 1828,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1659,7 +1659,7 @@
                 "open_issues": 40,
                 "owner": "maximegmd",
                 "repo": "CyberEngineTweaks",
-                "stars": 4805,
+                "stars": 4806,
                 "topics": [
                   "cyberpunk",
                   "cyberpunk2077"
@@ -1679,11 +1679,11 @@
                 "id": 79343641,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T16:12:33Z",
-                "open_issues": 327,
+                "last_commit": "2026-09-03T17:26:12Z",
+                "open_issues": 329,
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1188,
+                "stars": 1189,
                 "topics": [
                   "cyberpunk2077",
                   "game",
@@ -1767,7 +1767,7 @@
             "id": 224411362,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-01T07:52:50Z",
+            "last_commit": "2026-09-04T03:19:32Z",
             "open_issues": 0,
             "owner": "PrismaticFlower",
             "repo": "WorldEdit",
@@ -1883,7 +1883,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-14T15:03:31Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
             "stars": 2394,
@@ -1927,7 +1927,7 @@
             "open_issues": 67,
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1422,
+            "stars": 1423,
             "topics": [
               "curseforge",
               "github-releases",
@@ -2293,7 +2293,7 @@
             "id": 453673897,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T23:13:33Z",
+            "last_commit": "2026-09-04T00:11:16Z",
             "open_issues": 6,
             "owner": "pixeltris",
             "repo": "YgoMaster",
@@ -2525,7 +2525,7 @@
             "open_issues": 381,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8569,
+            "stars": 8576,
             "topics": [
               "bepinex",
               "framework",
@@ -2585,7 +2585,7 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-08-04T01:00:52Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
             "stars": 1111,
@@ -2648,7 +2648,7 @@
             "open_issues": 25,
             "owner": "gildor2",
             "repo": "UEViewer",
-            "stars": 2919,
+            "stars": 2918,
             "topics": [
               "3d",
               "actorx",
@@ -2827,6 +2827,32 @@
       "items": [
         {
           "node_type": "item",
+          "title": "RenoDX",
+          "description": "Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Renovation Engine for DirectX Games",
+            "homepage": "https://renodx.com/",
+            "id": 753163587,
+            "language": "HLSL",
+            "license": "MIT",
+            "last_commit": "2026-09-04T01:42:49Z",
+            "open_issues": 85,
+            "owner": "clshortfuse",
+            "repo": "renodx",
+            "stars": 3367,
+            "topics": [
+              "directx",
+              "games",
+              "hdr",
+              "mod"
+            ]
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
+        },
+        {
+          "node_type": "item",
           "title": "XIVLauncher Actions Status",
           "description": "Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.",
           "children": [],
@@ -2841,7 +2867,7 @@
             "open_issues": 619,
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3158,
+            "stars": 3159,
             "topics": [
               "discord",
               "ff14",
@@ -2850,32 +2876,6 @@
               "final-fantasy-xiv",
               "launcher",
               "rich-presence"
-            ]
-          },
-          "first_seen": "2026-08-28T15:30:25.688Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RenoDX",
-          "description": "Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Renovation Engine for DirectX Games",
-            "homepage": "https://renodx.com/",
-            "id": 753163587,
-            "language": "HLSL",
-            "license": "MIT",
-            "last_commit": "2026-09-03T01:58:57Z",
-            "open_issues": 84,
-            "owner": "clshortfuse",
-            "repo": "renodx",
-            "stars": 2965,
-            "topics": [
-              "directx",
-              "games",
-              "hdr",
-              "mod"
             ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -2920,11 +2920,11 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T17:28:08Z",
-            "open_issues": 151,
+            "last_commit": "2026-09-03T19:09:09Z",
+            "open_issues": 150,
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 981,
+            "stars": 982,
             "topics": [
               "game",
               "game-modding",
@@ -2946,8 +2946,8 @@
             "id": 165160518,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T22:47:15Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-04T02:58:07Z",
+            "open_issues": 60,
             "owner": "julianxhokaxhiu",
             "repo": "FFNx",
             "stars": 512,
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:10:16.335Z",
+    "last_updated": "2026-09-04T08:05:15.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of video game modding projects and resources.",
