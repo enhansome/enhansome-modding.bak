@@ -44,7 +44,7 @@
             "open_issues": 21,
             "owner": "CadeEvs",
             "repo": "FrostyToolsuite",
-            "stars": 758,
+            "stars": 760,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -88,7 +88,7 @@
             "id": 164172074,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T04:16:00Z",
+            "last_commit": "2026-09-08T03:45:03Z",
             "open_issues": 26,
             "owner": "ohhsodead",
             "repo": "arisen-studio",
@@ -361,7 +361,7 @@
             "open_issues": 150,
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2050,
+            "stars": 2055,
             "topics": [
               "framerate-fixer",
               "gaming",
@@ -389,7 +389,7 @@
             "open_issues": 48,
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 991,
+            "stars": 992,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -503,8 +503,8 @@
             "id": 629080475,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-07T05:07:15Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-08T05:49:58Z",
+            "open_issues": 0,
             "owner": "BoBoBaSs84",
             "repo": "DDS.Tools",
             "stars": 19,
@@ -602,7 +602,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-05T16:34:57Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "RaidMax",
             "repo": "IW4M-Admin",
             "stars": 253,
@@ -1294,7 +1294,7 @@
             "open_issues": 0,
             "owner": "NI240SX",
             "repo": "UCGT",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1434,7 +1434,7 @@
                 "open_issues": 151,
                 "owner": "Norbyte",
                 "repo": "lslib",
-                "stars": 926,
+                "stars": 927,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1462,7 +1462,7 @@
                 "open_issues": 201,
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1832,
+                "stars": 1834,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1483,7 +1483,7 @@
                 "open_issues": 210,
                 "owner": "Norbyte",
                 "repo": "bg3se",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1659,7 +1659,7 @@
                 "open_issues": 40,
                 "owner": "maximegmd",
                 "repo": "CyberEngineTweaks",
-                "stars": 4807,
+                "stars": 4806,
                 "topics": [
                   "cyberpunk",
                   "cyberpunk2077"
@@ -1679,11 +1679,11 @@
                 "id": 79343641,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T19:17:47Z",
-                "open_issues": 330,
+                "last_commit": "2026-09-08T05:55:14Z",
+                "open_issues": 326,
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1190,
+                "stars": 1193,
                 "topics": [
                   "cyberpunk2077",
                   "game",
@@ -1746,7 +1746,7 @@
             "id": 142595037,
             "language": "C",
             "license": null,
-            "last_commit": "2026-07-29T22:55:31Z",
+            "last_commit": "2026-09-08T00:14:05Z",
             "open_issues": 0,
             "owner": "SWRC-Modding",
             "repo": "CT",
@@ -2032,7 +2032,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-07-02T23:43:14Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "modrinth",
             "repo": "awesome",
             "stars": 200,
@@ -2522,10 +2522,10 @@
             "language": "C#",
             "license": "LGPL-2.1",
             "last_commit": "2026-09-01T05:03:47Z",
-            "open_issues": 381,
+            "open_issues": 380,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8595,
+            "stars": 8603,
             "topics": [
               "bepinex",
               "framework",
@@ -2648,7 +2648,7 @@
             "open_issues": 25,
             "owner": "gildor2",
             "repo": "UEViewer",
-            "stars": 2922,
+            "stars": 2923,
             "topics": [
               "3d",
               "actorx",
@@ -2733,7 +2733,7 @@
             "open_issues": 13,
             "owner": "trumank",
             "repo": "repak",
-            "stars": 561,
+            "stars": 562,
             "topics": [
               "modding-tools",
               "pak",
@@ -2837,11 +2837,11 @@
             "id": 753163587,
             "language": "HLSL",
             "license": "MIT",
-            "last_commit": "2026-09-07T01:33:47Z",
+            "last_commit": "2026-09-08T01:55:10Z",
             "open_issues": 87,
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 3764,
+            "stars": 3816,
             "topics": [
               "directx",
               "games",
@@ -2864,10 +2864,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-02-14T14:09:29Z",
-            "open_issues": 619,
+            "open_issues": 620,
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3163,
+            "stars": 3165,
             "topics": [
               "discord",
               "ff14",
@@ -2893,7 +2893,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-02T03:43:10Z",
-            "open_issues": 161,
+            "open_issues": 164,
             "owner": "Zagrios",
             "repo": "bs-manager",
             "stars": 1149,
@@ -2920,11 +2920,11 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T06:55:13Z",
-            "open_issues": 149,
+            "last_commit": "2026-09-07T11:17:58Z",
+            "open_issues": 157,
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 984,
+            "stars": 987,
             "topics": [
               "game",
               "game-modding",
@@ -2981,7 +2981,7 @@
             "open_issues": 104,
             "owner": "satisfactorymodding",
             "repo": "SatisfactoryModManager",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "ficsit",
               "gui",
@@ -3007,7 +3007,7 @@
             "open_issues": 7,
             "owner": "bartlomiejduda",
             "repo": "Tools",
-            "stars": 211,
+            "stars": 213,
             "topics": [
               "compression",
               "encryption",
@@ -3164,8 +3164,8 @@
             "id": 500410459,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T09:17:12Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-08T06:01:19Z",
+            "open_issues": 36,
             "owner": "bombsquad-community",
             "repo": "plugin-manager",
             "stars": 62,
@@ -3192,7 +3192,7 @@
             "id": 534164472,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T00:03:41Z",
+            "last_commit": "2026-09-07T21:08:13Z",
             "open_issues": 1,
             "owner": "ILoveAGoodCrisp",
             "repo": "Foundry",
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:29:22.695Z",
+    "last_updated": "2026-09-08T08:12:28.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of video game modding projects and resources.",
@@ -3406,7 +3406,7 @@
       "open_issues": 4,
       "owner": "loicreynier",
       "repo": "awesome-modding.bak",
-      "stars": 54,
+      "stars": 55,
       "topics": [
         "awesome",
         "awesome-list",
