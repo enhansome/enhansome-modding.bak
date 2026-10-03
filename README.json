@@ -389,7 +389,7 @@
             "open_issues": 48,
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 1001,
+            "stars": 1003,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -796,7 +796,7 @@
                 "open_issues": 192,
                 "owner": "Mutagen-Modding",
                 "repo": "Synthesis",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1462,7 +1462,7 @@
                 "open_issues": 201,
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1858,
+                "stars": 1859,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1480,7 +1480,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T20:55:08Z",
-                "open_issues": 216,
+                "open_issues": 217,
                 "owner": "Norbyte",
                 "repo": "bg3se",
                 "stars": 1516,
@@ -1886,7 +1886,7 @@
             "open_issues": 27,
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2417,
+            "stars": 2418,
             "topics": [
               "async-rust",
               "concurrency",
@@ -1927,7 +1927,7 @@
             "open_issues": 68,
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1423,
+            "stars": 1424,
             "topics": [
               "curseforge",
               "github-releases",
@@ -2297,7 +2297,7 @@
             "open_issues": 6,
             "owner": "pixeltris",
             "repo": "YgoMaster",
-            "stars": 1376,
+            "stars": 1377,
             "topics": [
               "masterduel",
               "yugioh"
@@ -2525,7 +2525,7 @@
             "open_issues": 386,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8761,
+            "stars": 8762,
             "topics": [
               "bepinex",
               "framework",
@@ -2837,11 +2837,11 @@
             "id": 753163587,
             "language": "HLSL",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:02:58Z",
+            "last_commit": "2026-10-03T07:26:40Z",
             "open_issues": 105,
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 4398,
+            "stars": 4399,
             "topics": [
               "directx",
               "games",
@@ -2920,11 +2920,11 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T20:56:41Z",
-            "open_issues": 161,
+            "last_commit": "2026-10-03T07:00:36Z",
+            "open_issues": 160,
             "owner": "LostArtefacts",
             "repo": "TRX",
-            "stars": 1000,
+            "stars": 1002,
             "topics": [
               "game",
               "game-modding",
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:55:50.550Z",
+    "last_updated": "2026-10-03T09:17:19.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of video game modding projects and resources.",
