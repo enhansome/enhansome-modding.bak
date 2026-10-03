@@ -44,7 +44,7 @@
             "open_issues": 21,
             "owner": "CadeEvs",
             "repo": "FrostyToolsuite",
-            "stars": 768,
+            "stars": 769,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -65,7 +65,7 @@
             "open_issues": 13,
             "owner": "Raicuparta",
             "repo": "rai-pal",
-            "stars": 725,
+            "stars": 727,
             "topics": [
               "modding",
               "rust",
@@ -357,11 +357,11 @@
             "id": 450996695,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T05:43:06Z",
+            "last_commit": "2026-10-02T23:49:04Z",
             "open_issues": 154,
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2093,
+            "stars": 2092,
             "topics": [
               "framerate-fixer",
               "gaming",
@@ -389,7 +389,7 @@
             "open_issues": 48,
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 998,
+            "stars": 1001,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -713,7 +713,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-25T13:37:29Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
                 "stars": 312,
@@ -911,8 +911,8 @@
                     "id": 797000531,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T01:14:22Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-10-03T00:37:10Z",
+                    "open_issues": 24,
                     "owner": "hakasapl",
                     "repo": "PGPatcher",
                     "stars": 97,
@@ -1434,7 +1434,7 @@
                 "open_issues": 153,
                 "owner": "Norbyte",
                 "repo": "lslib",
-                "stars": 938,
+                "stars": 940,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1462,7 +1462,7 @@
                 "open_issues": 201,
                 "owner": "LaughingLeader",
                 "repo": "BG3ModManager",
-                "stars": 1857,
+                "stars": 1858,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1683,7 +1683,7 @@
                 "open_issues": 332,
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1205,
+                "stars": 1206,
                 "topics": [
                   "cyberpunk2077",
                   "game",
@@ -1886,7 +1886,7 @@
             "open_issues": 27,
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2416,
+            "stars": 2417,
             "topics": [
               "async-rust",
               "concurrency",
@@ -1927,7 +1927,7 @@
             "open_issues": 68,
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1422,
+            "stars": 1423,
             "topics": [
               "curseforge",
               "github-releases",
@@ -2525,7 +2525,7 @@
             "open_issues": 386,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8756,
+            "stars": 8761,
             "topics": [
               "bepinex",
               "framework",
@@ -2560,7 +2560,7 @@
             "open_issues": 56,
             "owner": "sinai-dev",
             "repo": "UnityExplorer",
-            "stars": 3149,
+            "stars": 3147,
             "topics": [
               "bepinex",
               "il2cpp",
@@ -2837,11 +2837,11 @@
             "id": 753163587,
             "language": "HLSL",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:07:12Z",
+            "last_commit": "2026-10-03T02:02:58Z",
             "open_issues": 105,
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 4394,
+            "stars": 4398,
             "topics": [
               "directx",
               "games",
@@ -2896,7 +2896,7 @@
             "open_issues": 153,
             "owner": "Zagrios",
             "repo": "bs-manager",
-            "stars": 1187,
+            "stars": 1189,
             "topics": [
               "beatsaber",
               "beatsaber-mods",
@@ -2920,8 +2920,8 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T08:31:18Z",
-            "open_issues": 156,
+            "last_commit": "2026-10-02T20:56:41Z",
+            "open_issues": 161,
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 1000,
@@ -3164,7 +3164,7 @@
             "id": 534164472,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T01:49:27Z",
+            "last_commit": "2026-10-03T02:07:40Z",
             "open_issues": 1,
             "owner": "ILoveAGoodCrisp",
             "repo": "Foundry",
@@ -3197,8 +3197,8 @@
             "id": 500410459,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T10:46:06Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-02T14:07:32Z",
+            "open_issues": 36,
             "owner": "bombsquad-community",
             "repo": "plugin-manager",
             "stars": 61,
@@ -3250,8 +3250,8 @@
             "id": 322922267,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:05:03Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-02T10:57:54Z",
+            "open_issues": 10,
             "owner": "JanSimek",
             "repo": "gecko",
             "stars": 44,
@@ -3368,7 +3368,7 @@
         {
           "node_type": "item",
           "title": "Flat Out 2 Mod Manager",
-          "description": null,
+          "description": "d34dinsid3k1tty/FlatOut2ModManager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:55:32.936Z",
+    "last_updated": "2026-10-03T04:55:50.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of video game modding projects and resources.",
