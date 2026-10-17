@@ -44,7 +44,7 @@
             "open_issues": 21,
             "owner": "CadeEvs",
             "repo": "FrostyToolsuite",
-            "stars": 778,
+            "stars": 777,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -358,10 +358,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T06:22:03Z",
-            "open_issues": 155,
+            "open_issues": 157,
             "owner": "SpecialKO",
             "repo": "SpecialK",
-            "stars": 2112,
+            "stars": 2115,
             "topics": [
               "framerate-fixer",
               "gaming",
@@ -389,7 +389,7 @@
             "open_issues": 50,
             "owner": "imwaitingnow",
             "repo": "WorkshopDL",
-            "stars": 1012,
+            "stars": 1013,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -684,7 +684,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-13T16:31:38Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "ousnius",
                 "repo": "BodySlide-and-Outfit-Studio",
                 "stars": 369,
@@ -712,11 +712,11 @@
                 "id": 362150104,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T21:43:26Z",
+                "last_commit": "2026-10-17T00:40:30Z",
                 "open_issues": 98,
                 "owner": "BadDogSkyrim",
                 "repo": "PyNifly",
-                "stars": 321,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -796,7 +796,7 @@
                 "open_issues": 192,
                 "owner": "Mutagen-Modding",
                 "repo": "Synthesis",
-                "stars": 356,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -911,7 +911,7 @@
                     "id": 797000531,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-16T03:43:25Z",
+                    "last_commit": "2026-10-17T07:33:38Z",
                     "open_issues": 21,
                     "owner": "hakasapl",
                     "repo": "PGPatcher",
@@ -1148,7 +1148,7 @@
             "open_issues": 5,
             "owner": "zaps166",
             "repo": "NFSIISE",
-            "stars": 768,
+            "stars": 769,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1434,7 +1434,7 @@
                 "open_issues": 154,
                 "owner": "Norbyte",
                 "repo": "lslib",
-                "stars": 948,
+                "stars": 947,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1483,7 +1483,7 @@
                 "open_issues": 220,
                 "owner": "Norbyte",
                 "repo": "bg3se",
-                "stars": 1526,
+                "stars": 1525,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:30:25.688Z"
@@ -1659,7 +1659,7 @@
                 "open_issues": 46,
                 "owner": "maximegmd",
                 "repo": "CyberEngineTweaks",
-                "stars": 4809,
+                "stars": 4808,
                 "topics": [
                   "cyberpunk",
                   "cyberpunk2077"
@@ -1679,11 +1679,11 @@
                 "id": 79343641,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T16:56:49Z",
-                "open_issues": 336,
+                "last_commit": "2026-10-16T18:33:28Z",
+                "open_issues": 337,
                 "owner": "WolvenKit",
                 "repo": "WolvenKit",
-                "stars": 1213,
+                "stars": 1214,
                 "topics": [
                   "cyberpunk2077",
                   "game",
@@ -1886,7 +1886,7 @@
             "open_issues": 27,
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2433,
+            "stars": 2434,
             "topics": [
               "async-rust",
               "concurrency",
@@ -1927,7 +1927,7 @@
             "open_issues": 68,
             "owner": "gorilla-devs",
             "repo": "ferium",
-            "stars": 1429,
+            "stars": 1428,
             "topics": [
               "curseforge",
               "github-releases",
@@ -2035,7 +2035,7 @@
             "open_issues": 7,
             "owner": "modrinth",
             "repo": "awesome",
-            "stars": 201,
+            "stars": 200,
             "topics": []
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -2112,7 +2112,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-07-20T16:57:47Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "thesupersonic16",
             "repo": "HedgeModManager",
             "stars": 499,
@@ -2141,10 +2141,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-08-07T17:13:34Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "X-Hax",
             "repo": "SA-Mod-Manager",
-            "stars": 164,
+            "stars": 160,
             "topics": [
               "csharp",
               "mod-manager",
@@ -2521,11 +2521,11 @@
             "id": 121067132,
             "language": "C#",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-20T16:14:04Z",
-            "open_issues": 384,
+            "last_commit": "2026-10-16T10:42:00Z",
+            "open_issues": 382,
             "owner": "BepInEx",
             "repo": "BepInEx",
-            "stars": 8847,
+            "stars": 8855,
             "topics": [
               "bepinex",
               "framework",
@@ -2560,7 +2560,7 @@
             "open_issues": 56,
             "owner": "sinai-dev",
             "repo": "UnityExplorer",
-            "stars": 3153,
+            "stars": 3151,
             "topics": [
               "bepinex",
               "il2cpp",
@@ -2588,7 +2588,7 @@
             "open_issues": 9,
             "owner": "ManlyMarco",
             "repo": "RuntimeUnityEditor",
-            "stars": 1123,
+            "stars": 1124,
             "topics": [
               "bepinex",
               "debugging-tool",
@@ -2648,7 +2648,7 @@
             "open_issues": 25,
             "owner": "gildor2",
             "repo": "UEViewer",
-            "stars": 2949,
+            "stars": 2950,
             "topics": [
               "3d",
               "actorx",
@@ -2733,7 +2733,7 @@
             "open_issues": 13,
             "owner": "trumank",
             "repo": "repak",
-            "stars": 582,
+            "stars": 584,
             "topics": [
               "modding-tools",
               "pak",
@@ -2837,11 +2837,11 @@
             "id": 753163587,
             "language": "HLSL",
             "license": "MIT",
-            "last_commit": "2026-10-16T01:35:10Z",
-            "open_issues": 109,
+            "last_commit": "2026-10-17T01:35:18Z",
+            "open_issues": 108,
             "owner": "clshortfuse",
             "repo": "renodx",
-            "stars": 4519,
+            "stars": 4521,
             "topics": [
               "directx",
               "games",
@@ -2867,7 +2867,7 @@
             "open_issues": 638,
             "owner": "goatcorp",
             "repo": "FFXIVQuickLauncher",
-            "stars": 3191,
+            "stars": 3192,
             "topics": [
               "discord",
               "ff14",
@@ -2893,7 +2893,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T03:50:39Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "Zagrios",
             "repo": "bs-manager",
             "stars": 1206,
@@ -2920,8 +2920,8 @@
             "id": 336902304,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T22:06:38Z",
-            "open_issues": 159,
+            "last_commit": "2026-10-17T06:53:12Z",
+            "open_issues": 163,
             "owner": "LostArtefacts",
             "repo": "TRX",
             "stars": 1009,
@@ -3154,6 +3154,39 @@
         },
         {
           "node_type": "item",
+          "title": "Foundry",
+          "description": "Blender addon supporting asset creation for Halo Reach, Halo 4 and Halo 2 Anniversary Multiplayer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Blender addon supporting asset creation for Halo Reach, Halo 4, and Halo 2 Anniversary Multiplayer",
+            "homepage": "https://c20.reclaimers.net/",
+            "id": 534164472,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-16T11:39:07Z",
+            "open_issues": 2,
+            "owner": "ILoveAGoodCrisp",
+            "repo": "Foundry",
+            "stars": 63,
+            "topics": [
+              "blender-addon",
+              "exporter",
+              "gr2",
+              "halo",
+              "halo-reach",
+              "halo2amp",
+              "halo4",
+              "lightmap",
+              "managedblam",
+              "modding",
+              "modding-tools"
+            ]
+          },
+          "first_seen": "2026-08-28T15:30:25.688Z"
+        },
+        {
+          "node_type": "item",
           "title": "Bombsquad Plugin Manager",
           "description": "Plugin Manager for Bombsquad 1.7+.",
           "children": [],
@@ -3176,39 +3209,6 @@
               "plugin",
               "plugin-manager",
               "plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T15:30:25.688Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Foundry",
-          "description": "Blender addon supporting asset creation for Halo Reach, Halo 4 and Halo 2 Anniversary Multiplayer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Blender addon supporting asset creation for Halo Reach, Halo 4, and Halo 2 Anniversary Multiplayer",
-            "homepage": "https://c20.reclaimers.net/",
-            "id": 534164472,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-15T21:30:11Z",
-            "open_issues": 2,
-            "owner": "ILoveAGoodCrisp",
-            "repo": "Foundry",
-            "stars": 62,
-            "topics": [
-              "blender-addon",
-              "exporter",
-              "gr2",
-              "halo",
-              "halo-reach",
-              "halo2amp",
-              "halo4",
-              "lightmap",
-              "managedblam",
-              "modding",
-              "modding-tools"
             ]
           },
           "first_seen": "2026-08-28T15:30:25.688Z"
@@ -3250,8 +3250,8 @@
             "id": 322922267,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T21:47:03Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-17T07:55:20Z",
+            "open_issues": 11,
             "owner": "JanSimek",
             "repo": "gecko",
             "stars": 45,
@@ -3394,7 +3394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:20:04.041Z",
+    "last_updated": "2026-10-17T07:55:26.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of video game modding projects and resources.",
