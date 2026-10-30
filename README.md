@@ -87,13 +87,13 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Mod collection management tools supporting multiple games.
 
-* [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) ⭐ 786 | 🐛 21 | 🌐 C# | 📅 2024-09-26 - Mod manager for Frostbite engine games.
-* [Limo](https://github.com/limo-app/limo) ⭐ 785 | 🐛 173 | 🌐 C++ | 📅 2025-05-03 - General purpose mod manager primarily developed for Linux with support for the Nexus Mods API and LOOT.
+* [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) ⭐ 787 | 🐛 21 | 🌐 C# | 📅 2024-09-26 - Mod manager for Frostbite engine games.
+* [Limo](https://github.com/limo-app/limo) ⭐ 787 | 🐛 173 | 🌐 C++ | 📅 2025-05-03 - General purpose mod manager primarily developed for Linux with support for the Nexus Mods API and LOOT.
 * [Rai Pal](https://github.com/Raicuparta/rai-pal) ⭐ 741 | 🐛 12 | 🌐 Rust | 📅 2026-10-27 - Mod manager for universal mods.
-* [Arisen Studio](https://github.com/ohhsodead/arisen-studio) ⭐ 269 | 🐛 26 | 🌐 C# | 📅 2026-10-29 - Mod manager for PS3 and Xbox 360.
+* [Arisen Studio](https://github.com/ohhsodead/arisen-studio) ⭐ 269 | 🐛 23 | 🌐 C# | 📅 2026-10-29 - Mod manager for PS3 and Xbox 360.
 * [Fluffy's Steam Mod Manager](https://github.com/fluffy-mods/ModManager/tree/1.4) ⭐ 107 | 🐛 57 | 🌐 C# | 📅 2023-10-18 - Mod manager for Steam Workshop.
 * [AMMO (Almost Manual Mod Manager)](https://github.com/cyberrumor/ammo) ⭐ 60 | 🐛 7 | 🌐 Python | 📅 2026-09-22 - Terminal based Linux mod manager for Bethesda games.
-* [dmodman](https://github.com/dandels/dmodman) ⭐ 59 | 🐛 4 | 🌐 Rust | 📅 2026-09-03 - Linux TUI mod downloader & update checker for Nexus Mods.
+* [dmodman](https://github.com/dandels/dmodman) ⭐ 60 | 🐛 4 | 🌐 Rust | 📅 2026-09-03 - Linux TUI mod downloader & update checker for Nexus Mods.
 * [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) ⭐ 46 | 🐛 8 | 🌐 C++ | 📅 2021-12-07 - Virtualized mod management tool for Bethesda games.
 * [Continuum Mod Manager](https://github.com/dasorik/continuum-mod-manager) ⭐ 21 | 🐛 5 | 🌐 C# | 📅 2025-03-17 - Game agnostic mod manager currently supporting LEGO Batman 2 DC Super Heroes & Disney Infinity 3.0.
 * [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) - Mod manager for various RE engine (Resident Evil, Dragon's Dogma, Uncharted 4, etc) games.
@@ -210,8 +210,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Miscellaneous modding tools.
 
-* [SpecialK](https://github.com/SpecialKO/SpecialK) ⭐ 2,141 | 🐛 154 | 🌐 C++ | 📅 2026-10-29 - Swiss Army Knife of PC gaming with features such as HDR injection, textures modding, DLL loading such as ReShade and more.
-* [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) ⭐ 1,023 | 🐛 49 | 📅 2026-08-29 - Standalone Steam workshop GUI downloader.
+* [SpecialK](https://github.com/SpecialKO/SpecialK) ⭐ 2,144 | 🐛 156 | 🌐 C++ | 📅 2026-10-30 - Swiss Army Knife of PC gaming with features such as HDR injection, textures modding, DLL loading such as ReShade and more.
+* [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) ⭐ 1,022 | 🐛 49 | 📅 2026-08-29 - Standalone Steam workshop GUI downloader.
 * [FOMOD Validator](https://github.com/GandaG/fomod-validator) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2023-04-17 - FOMOD installer XML file validator/linter.
 * [pyfomod](https://github.com/GandaG/pyfomod) ⭐ 10 | 🐛 6 | 🌐 Python | 📅 2022-10-25 - High-level FOMOD library written in Python.
 * [FOMOD Creation Kit](https://github.com/Cutleast/FOMOD-Creation-Kit) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2026-04-18 - Advanced GUI to create FOMOD installers with automatic file management.
@@ -271,7 +271,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Call of Duty games.
 
-* [GSC](https://github.com/xensik/gsc-tool) ⭐ 342 | 🐛 7 | 🌐 C++ | 📅 2026-10-22 - Utility to compile & decompile IW engine game (Call of Duty) scripts.
+* [GSC](https://github.com/xensik/gsc-tool) ⭐ 341 | 🐛 8 | 🌐 C++ | 📅 2026-10-22 - Utility to compile & decompile IW engine game (Call of Duty) scripts.
 * [IW4M-Admin](https://github.com/RaidMax/IW4M-Admin) ⭐ 257 | 🐛 11 | 🌐 C# | 📅 2026-10-08 - Complete administration tool for Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, TeknoMW3, and most Call of Duty dedicated servers.
 * [TeknoMW3 Support Page](https://github.com/Musta1337/TeknoMW3) ⭐ 66 | 🐛 1 | 📅 2026-10-23 - English support page for the TeknoMW3 Client.
 * [AlterWare](https://alterware.dev) - Modding platform for MW2, MW3, Ghosts and Advanced Warfare with dedicated servers.
@@ -316,9 +316,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Mesh and textures manipulation tools.
 
-* [BodySlide and Outfit Studio](https://github.com/ousnius/BodySlide-and-Outfit-Studio) ⭐ 371 | 🐛 17 | 🌐 C++ | 📅 2026-10-28 - Tool to convert, create, and customize outfits and bodies for The Elder Scrolls and Fallout.
+* [BodySlide and Outfit Studio](https://github.com/ousnius/BodySlide-and-Outfit-Studio) ⭐ 371 | 🐛 18 | 🌐 C++ | 📅 2026-10-28 - Tool to convert, create, and customize outfits and bodies for The Elder Scrolls and Fallout.
 * [PyNifly](https://github.com/BadDogSkyrim/PyNifly) ⭐ 324 | 🐛 101 | 🌐 Python | 📅 2026-10-27 - Blender addon to import/export NIF files with support for Skyrim LE, Skyrim SE, Fallout 4, Fallout New Vegas, Fallout 76, and Fallout 3.
-* [BSA Browser](https://github.com/AlexxEG/BSA_Browser) ⭐ 133 | 🐛 4 | 🌐 C# | 📅 2026-04-18 - Bethesda Archive (BSA and BA2) browser & extractor application.
+* [BSA Browser](https://github.com/AlexxEG/BSA_Browser) ⭐ 134 | 🐛 4 | 🌐 C# | 📅 2026-04-18 - Bethesda Archive (BSA and BA2) browser & extractor application.
 * [DDS Texture Scanner](https://github.com/niston/TextureScan) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2023-06-03 - Application scanning for DDS textures with abnormal dimensions.
 * [BAE](https://www.nexusmods.com/starfield/mods/165) - Bethesda Archive Extractor application.
 * [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) - Tool to automatically optimized BSAs, meshes, textures and animations.
@@ -397,9 +397,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Modding Utilities
 
-* [Parallax Gen](https://github.com/hakasapl/ParallaxGen) ⭐ 100 | 🐛 21 | 🌐 C++ | 📅 2026-10-29 - NIF dynamic patcher to enable parallax on your entire load order.
+* [Parallax Gen](https://github.com/hakasapl/ParallaxGen) ⭐ 100 | 🐛 21 | 🌐 C++ | 📅 2026-10-30 - NIF dynamic patcher to enable parallax on your entire load order.
 * [blender-hkx](https://github.com/jgernandt/blender-hkx) ⭐ 44 | 🐛 7 | 🌐 C++ | 📅 2024-05-22 - Blender 3.2 addon to import/export Skyrim animations (HKX files).
-* [SSE Auto Translator](https://github.com/Cutleast/SSE-Auto-Translator) ⭐ 36 | 🐛 18 | 🌐 Python | 📅 2026-10-27 - Tool to automatically find missing translations, download and create translation mods.
+* [SSE Auto Translator](https://github.com/Cutleast/SSE-Auto-Translator) ⭐ 36 | 🐛 20 | 🌐 Python | 📅 2026-10-29 - Tool to automatically find missing translations, download and create translation mods.
 * [Mod Medic](https://github.com/Sonorous256/skyrim-mod-medic) ⭐ 17 | 🐛 1 | 📅 2024-01-27 - Toolkit to troubleshoot and audition your load order.
 * [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) ⭐ 11 | 🐛 2 | 🌐 PowerShell | 📅 2026-10-04 - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 * [BOS INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/95679) - INI Writer Extension providing a GUI for editing BOS files.
@@ -462,7 +462,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Need for Speed games modding.
 
-* [NFSIISE](https://github.com/zaps166/NFSIISE) ⭐ 781 | 🐛 7 | 🌐 C | 📅 2026-05-01 - Need for Speed II cross-platform wrapper with 3D acceleration and TCP protocol.
+* [NFSIISE](https://github.com/zaps166/NFSIISE) ⭐ 782 | 🐛 7 | 🌐 C | 📅 2026-05-01 - Need for Speed II cross-platform wrapper with 3D acceleration and TCP protocol.
 * [NFS-XtendedInput](https://github.com/xan1242/NFS-XtendedInput) ⭐ 213 | 🐛 60 | 🌐 C++ | 📅 2025-05-14 - Xinput support plugin for Black Box (Most Wanted & newer) Need for Speed games.
 * [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) ⭐ 168 | 🐛 28 | 🌐 C++ | 📅 2025-05-14 - Xinput support plugin for Need for Speed Underground & Underground 2.
 * [Binary](https://github.com/NFSCO/Binary) ⭐ 52 | 🐛 0 | 🌐 C# | 📅 2024-06-15 - Tool for editing Black Box Need for Speed binary `.BIN`, `.BUN`, `.LZC` files.
@@ -499,7 +499,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to Baldur's Gate 3 modding.
 
 * [LaughingLeader's Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager) ⭐ 1,883 | 🐛 201 | 🌐 C# | 📅 2026-03-07 - Mod manager for Baldur's Gate 3.
-* [Norbyte's Baldur's Gate 3 Script Extender](https://github.com/Norbyte/bg3se#norbytes-baldurs-gate-3-script-extender) ⭐ 1,530 | 🐛 225 | 🌐 C++ | 📅 2026-10-28 - Baldur's Gate 3 Script Extender.
+* [Norbyte's Baldur's Gate 3 Script Extender](https://github.com/Norbyte/bg3se#norbytes-baldurs-gate-3-script-extender) ⭐ 1,530 | 🐛 228 | 🌐 C++ | 📅 2026-10-28 - Baldur's Gate 3 Script Extender.
 * [BG3WASD](https://github.com/Ch4nKyy/BG3WASD) ⭐ 69 | 🐛 9 | 🌐 C++ | 📅 2026-09-13 - WASD Character Movement Mod for Baldur's Gate 3.
 * [BG3Cam](https://github.com/shalzuth/BG3Cam) ⭐ 49 | 🐛 5 | 🌐 C# | 📅 2023-08-16 - Baldur's Gate 3 camera mod to zoom and tilt the camera.
 * [BG3 Achievement Enabler](https://github.com/gottyduke/BG3_AchievementEnabler) ⭐ 37 | 🐛 2 | 🌐 C++ | 📅 2025-08-11 - Native mod loader & achievement enabler for Baldur's Gate 3.
@@ -539,8 +539,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Cyberpunk 2077 modding.
 
-* [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks) ⭐ 4,824 | 🐛 51 | 🌐 C++ | 📅 2026-10-26 - Framework to script mods using Lua with access to all the internal scripting features.
-* [WolvenKit](https://github.com/WolvenKit/WolvenKit) ⭐ 1,227 | 🐛 357 | 🌐 C# | 📅 2026-10-28 - REDEngine 4 file editor designed to simplify and accelerate modding workflow.
+* [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks) ⭐ 4,826 | 🐛 51 | 🌐 C++ | 📅 2026-10-26 - Framework to script mods using Lua with access to all the internal scripting features.
+* [WolvenKit](https://github.com/WolvenKit/WolvenKit) ⭐ 1,228 | 🐛 359 | 🌐 C# | 📅 2026-10-28 - REDEngine 4 file editor designed to simplify and accelerate modding workflow.
 * [Cyber Engine Tweaks Mod Manager](https://github.com/Nats-ji/CET-Mod-Manager) ⭐ 38 | 🐛 2 | 🌐 Lua | 📅 2024-03-07 - Mod manager for Cyberpunk 2077 CyberEngineTweaks based mods.
 
 <div align="right">
@@ -599,9 +599,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Minecraft modding.
 
-* [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,457 | 🐛 27 | 🌐 Rust | 📅 2026-08-14 - Multithreaded reimplementation of the Minecraft server in Rust.
+* [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,463 | 🐛 27 | 🌐 Rust | 📅 2026-08-14 - Multithreaded reimplementation of the Minecraft server in Rust.
 * [Ferium](https://github.com/gorilla-devs/ferium) ⭐ 1,428 | 🐛 68 | 🌐 Rust | 📅 2026-05-16 - CLI mod manager with support for Modrinth, CurseForge, and GitHub Releases.
-* [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) ⭐ 659 | 🐛 36 | 📅 2025-08-23 - Curated list of awesome things (including mods) related to Minecraft.
+* [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) ⭐ 660 | 🐛 36 | 📅 2025-08-23 - Curated list of awesome things (including mods) related to Minecraft.
 * [StopModReposts](https://github.com/StopModReposts/Illegal-Mod-Sites) ⭐ 305 | 🐛 21 | 🌐 Python | 📅 2024-03-13 - List of websites that are illegally redistributing Minecraft mods.
 * [Mod Manager](https://github.com/kaniol-lck/modmanager) ⭐ 236 | 🐛 19 | 🌐 C++ | 📅 2026-09-16 - Qt-based mod manager with support for Curseforge, Modrinth, OptiFine and ReplayMod.
 * [Awesome Modrinth](https://github.com/modrinth/awesome) ⭐ 201 | 🐛 7 | 📅 2026-07-02 - Collection of awesome open-source projects which use the Modrinth API.
@@ -649,7 +649,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to modding Yu-Gi-Oh! digital games.
 
-* [YgoMaster](https://github.com/pixeltris/YgoMaster) ⭐ 1,396 | 🐛 11 | 🌐 C# | 📅 2026-10-15 - Master Duel offline mod with PvP LAN support.
+* [YgoMaster](https://github.com/pixeltris/YgoMaster) ⭐ 1,398 | 🐛 13 | 🌐 C# | 📅 2026-10-15 - Master Duel offline mod with PvP LAN support.
 * [EDOPro Skinpack](https://github.com/Lahrenheit/EDOPRO-Skinpack) ⭐ 62 | 🐛 0 | 📅 2026-10-29 - Skin pack for EDOPro.
 * [EDOPro HD Downloader](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) ⭐ 60 | 🐛 3 | 🌐 Python | 📅 2024-07-16 - Tool to download HD card images for EDOPro.
 * [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) ⭐ 12 | 🐛 0 | 📅 2024-03-26 - Master Duel modding guide focused on assets and music editing.
@@ -671,7 +671,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Tool to use and create mods for Unity games.
 
-* [BepInEx](https://github.com/BepInEx/BepInEx) ⭐ 8,924 | 🐛 382 | 🌐 C# | 📅 2026-10-23 - Plugin / modding framework for Unity Mono, IL2CPP and .NET framework games.
+* [BepInEx](https://github.com/BepInEx/BepInEx) ⭐ 8,930 | 🐛 382 | 🌐 C# | 📅 2026-10-23 - Plugin / modding framework for Unity Mono, IL2CPP and .NET framework games.
 * [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) ⚠️ Archived - In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 * [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) ⭐ 1,130 | 🐛 9 | 🌐 C# | 📅 2026-10-24 - In-game inspector and debugging tools for applications made with Unity3D game engine.
 * [ThunderKit](https://github.com/PassivePicasso/ThunderKit) ⭐ 182 | 🐛 5 | 🌐 C# | 📅 2026-08-22 - Mod project development environment for Unity and Unity games.
@@ -688,9 +688,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Tools to use and create mods for Unreal Engine 4 games.
 
-* [UE Viewer](https://github.com/gildor2/UEViewer) ⭐ 2,959 | 🐛 25 | 🌐 C++ | 📅 2024-03-16 - Viewer and exporter for Unreal Engine 1–4 assets.
-* [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) ⭐ 804 | 🐛 9 | 📅 2023-09-19 - Curated list of resources for working with Unreal Engine 4.
-* [Unreal ImGui](https://github.com/segross/UnrealImGui) ⭐ 768 | 🐛 36 | 🌐 C++ | 📅 2024-07-22 - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 76,871 | 🐛 1,218 | 🌐 C++ | 📅 2026-10-28 framework into Unreal Engine 4.
+* [UE Viewer](https://github.com/gildor2/UEViewer) ⭐ 2,960 | 🐛 25 | 🌐 C++ | 📅 2024-03-16 - Viewer and exporter for Unreal Engine 1–4 assets.
+* [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) ⭐ 803 | 🐛 9 | 📅 2023-09-19 - Curated list of resources for working with Unreal Engine 4.
+* [Unreal ImGui](https://github.com/segross/UnrealImGui) ⭐ 768 | 🐛 36 | 🌐 C++ | 📅 2024-07-22 - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 76,887 | 🐛 1,220 | 🌐 C++ | 📅 2026-10-29 framework into Unreal Engine 4.
 * [repak](https://github.com/trumank/repak) ⭐ 589 | 🐛 13 | 🌐 Rust | 📅 2026-02-20 - Rust library and CLI tool for working with Unreal Engine 4 PAK files.
 * [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) ⭐ 247 | 🐛 21 | 🌐 C++ | 📅 2023-04-16 - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
 * [Stove](https://github.com/bananaturtlesandwich/stove) ⭐ 163 | 🐛 16 | 🌐 Rust | 📅 2024-12-13 - Editor for cooked Unreal Engine 4 maps.
@@ -724,14 +724,14 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Other Games
 
-* [RenoDX](https://github.com/clshortfuse/renodx) ⭐ 4,626 | 🐛 118 | 🌐 HLSL | 📅 2026-10-29 - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.
+* [RenoDX](https://github.com/clshortfuse/renodx) ⭐ 4,628 | 🐛 119 | 🌐 HLSL | 📅 2026-10-30 - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.
 * [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) ⭐ 3,193 | 🐛 635 | 🌐 C# | 📅 2026-10-23 - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
-* [BS Manager](https://github.com/Zagrios/bs-manager) ⭐ 1,220 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-23 - Beat Sabers mod manager that also manages game versions.
-* [TR1X](https://github.com/LostArtefacts/TR1X) ⭐ 1,027 | 🐛 156 | 🌐 C | 📅 2026-10-28 - Open source re-implementation of Tomb Raider 1 (1996), along with additional enhancements and bugfixes.
-* [FFNx](https://github.com/julianxhokaxhiu/FFNx) ⭐ 527 | 🐛 57 | 🌐 C++ | 📅 2026-10-29 - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
+* [BS Manager](https://github.com/Zagrios/bs-manager) ⭐ 1,222 | 🐛 158 | 🌐 TypeScript | 📅 2026-10-23 - Beat Sabers mod manager that also manages game versions.
+* [TR1X](https://github.com/LostArtefacts/TR1X) ⭐ 1,028 | 🐛 154 | 🌐 C | 📅 2026-10-29 - Open source re-implementation of Tomb Raider 1 (1996), along with additional enhancements and bugfixes.
+* [FFNx](https://github.com/julianxhokaxhiu/FFNx) ⭐ 528 | 🐛 56 | 🌐 C++ | 📅 2026-10-30 - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
 * [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) ⭐ 505 | 🐛 105 | 🌐 Svelte | 📅 2026-10-27 - Application handling all the steps of installing mods in Satisfactory for you.
 * [Bartłomiej Duda's Tools](https://github.com/bartlomiejduda/Tools) ⭐ 218 | 🐛 8 | 🌐 Python | 📅 2026-10-28 - Set of tools to manage and modify files from many various games.
-* [Halo Asset Blender Development Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) ⭐ 155 | 🐛 12 | 🌐 Python | 📅 2026-10-28 - Halo CE/H2/H3/ODST JMS/JMA/ASS file exporter for Blender.
+* [Halo Asset Blender Development Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) ⭐ 155 | 🐛 12 | 🌐 Python | 📅 2026-10-30 - Halo CE/H2/H3/ODST JMS/JMA/ASS file exporter for Blender.
 * [MSFS Mod Manager](https://github.com/NathanVaughn/msfs-mod-manager) ⚠️ Archived - External mod manager for Microsoft Flight Simulator to manage 3rd party addons.
 * [TR2X](https://github.com/LostArtefacts/TR2X) ⚠️ Archived - Decompilation project for Tomb Raider 2 (1997), along with additional enhancements and bugfixes.
 * [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) ⚠️ Archived - Mod manager for Among Us.
@@ -766,4 +766,4 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
